@@ -1,0 +1,572 @@
+{
+  "meta": {
+    "title": "Tiktalink | Digital Evolution Systems for Modern Businesses",
+    "description": "Tiktalink builds websites, SEO infrastructure, AI systems, automation, software, and digital transformation systems for businesses across every industry."
+  },
+  "language": {
+    "label": "Language",
+    "aria": "Change language"
+  },
+  "nav": {
+    "services": "Services",
+    "industries": "Industries",
+    "aiSystems": "AI Systems",
+    "process": "Process",
+    "insights": "Insights",
+    "contact": "Contact",
+    "start": "Start Transformation",
+    "toggle": "Toggle navigation menu",
+    "home": "Tiktalink home",
+    "skip": "Skip to main content"
+  },
+  "hero": {
+    "badge": "Business Infrastructure for the AI Era",
+    "headlineBefore": "The",
+    "headlineHighlight": "Digital Evolution Layer",
+    "headlineAfter": "for Modern Business",
+    "subheadline": "Tiktalink builds complete digital systems, not isolated pages. We connect websites, Google visibility, SEO infrastructure, automation, software, and AI systems so businesses can move from outdated presence to future-ready infrastructure.",
+    "primaryCta": "Start Your Digital Evolution",
+    "secondaryCta": "Explore Infrastructure",
+    "labels": [
+      "Web",
+      "SEO",
+      "Google",
+      "AI",
+      "Automation",
+      "Software"
+    ],
+    "visual": {
+      "tag": "AI-ready layer",
+      "mobileWater": "Water",
+      "mobileLand": "Land",
+      "mobileAi": "AI",
+      "nodes": [
+        {
+          "label": "Origin",
+          "meta": "water"
+        },
+        {
+          "label": "Foundation",
+          "meta": "land"
+        },
+        {
+          "label": "Network",
+          "meta": "link"
+        },
+        {
+          "label": "Infrastructure",
+          "meta": "tech"
+        },
+        {
+          "label": "Intelligence",
+          "meta": "AI"
+        }
+      ]
+    }
+  },
+  "evolution": {
+    "badge": "Brand Philosophy",
+    "title": "From Evolution to Intelligence",
+    "paragraph1": "Every major leap begins with a transition. Tiktalink is inspired by the evolutionary bridge between two worlds: the old environment and the next one.",
+    "paragraph2": "Today, businesses face the same shift. From offline to online. From manual to automated. From search to AI. From visibility to intelligence."
+  },
+  "services": {
+    "badge": "Systems, Not Services",
+    "title": "Complete Digital Systems for Modern Businesses",
+    "description": "Each layer is designed to increase trust, improve discovery, reduce manual work, and turn digital presence into a connected business asset.",
+    "items": [
+      {
+        "title": "Website Infrastructure",
+        "description": "High-performance digital foundations built for trust, speed, search visibility, and measurable conversion."
+      },
+      {
+        "title": "SEO & Google Visibility",
+        "description": "Technical SEO, local search, Google Business optimization, and visibility systems that help customers find you."
+      },
+      {
+        "title": "AI Business Systems",
+        "description": "AI assistants, knowledge bases, workflow intelligence, and customer support systems that extend your team."
+      },
+      {
+        "title": "Social Media Infrastructure",
+        "description": "Professional profile architecture, content systems, brand consistency, and authority across social channels."
+      },
+      {
+        "title": "Custom Software",
+        "description": "Business-specific dashboards, booking tools, internal platforms, and software that fits the way you operate."
+      },
+      {
+        "title": "Automation & Workflow",
+        "description": "Connected workflows that route forms, leads, tasks, email, CRM actions, and customer journeys automatically."
+      },
+      {
+        "title": "Digital Catalogs",
+        "description": "Modern product and service catalogs for manufacturers, clinics, exporters, service providers, and B2B teams."
+      },
+      {
+        "title": "Analytics & Growth Systems",
+        "description": "Tracking, performance measurement, conversion insight, and decision systems for continuous improvement."
+      }
+    ]
+  },
+  "infrastructure": {
+    "badge": "Complete Digital Infrastructure",
+    "title": "Every visible and invisible layer a modern business needs.",
+    "description": "A modern business is discovered through Google, judged through its website, contacted through forms and messages, operated through workflows, and increasingly understood through AI.",
+    "pillars": [
+      "Trust architecture",
+      "Search visibility",
+      "Customer journeys",
+      "Operational automation",
+      "AI-ready knowledge",
+      "Growth measurement"
+    ]
+  },
+  "why": {
+    "badge": "Why Tiktalink",
+    "title": "We build the connective tissue of a modern business.",
+    "description": "Tiktalink looks beyond a single website or campaign. We design the system behind visibility, trust, customer acquisition, automation, and AI readiness.",
+    "items": [
+      {
+        "title": "We See the Whole System",
+        "description": "A business does not need another disconnected page. It needs web, Google, SEO, AI, automation, and software working as one operating layer."
+      },
+      {
+        "title": "We Build for Business Reality",
+        "description": "Clinics, exporters, restaurants, manufacturers, lawyers, and B2B companies have different journeys. The infrastructure adapts to the sector."
+      },
+      {
+        "title": "We Prepare for AI Discovery",
+        "description": "Search, content, support, routing, and knowledge systems are changing. Tiktalink structures businesses for the next interface of the internet."
+      },
+      {
+        "title": "We Create Long-Term Infrastructure",
+        "description": "The goal is not a temporary campaign. It is a durable digital foundation that can expand with visibility, automation, intelligence, and growth."
+      }
+    ]
+  },
+  "ai": {
+    "badge": "AI Business Layer",
+    "titleBefore": "AI",
+    "titleAfter": "Is Becoming the New Business Layer",
+    "description": "Businesses now need more than pages that sit online. They need structured knowledge, connected workflows, and interfaces that can answer, guide, route, and improve the customer journey.",
+    "items": [
+      {
+        "title": "AI Customer Assistants",
+        "description": "Guided assistants that answer common questions, qualify intent, and support customers before your team steps in."
+      },
+      {
+        "title": "AI Search Readiness",
+        "description": "Structured content and knowledge architecture designed for the shift from classic search to AI discovery."
+      },
+      {
+        "title": "AI Content Systems",
+        "description": "Reusable content foundations that keep pages, services, catalogs, and local visibility consistent."
+      },
+      {
+        "title": "AI Lead Routing",
+        "description": "Intelligent routing for inquiries, forms, messages, and sales opportunities based on context and urgency."
+      },
+      {
+        "title": "AI Workflow Automation",
+        "description": "Practical automation for repeatable business steps, from customer intake to internal follow-up."
+      },
+      {
+        "title": "AI Knowledge Bases",
+        "description": "Business knowledge organized so teams, customers, and AI systems can access accurate answers faster."
+      }
+    ]
+  },
+  "industries": {
+    "badge": "Industries",
+    "title": "Built for Every Industry",
+    "description": "Tiktalink adapts digital systems to the reality of each sector, from appointment-driven clinics to B2B manufacturers, exporters, local services, and global companies.",
+    "items": [
+      "Dental Clinics",
+      "Medical Clinics",
+      "Doctors",
+      "Lawyers",
+      "Pharmacies",
+      "Beauty Centers",
+      "Restaurants",
+      "Real Estate",
+      "Car Dealerships",
+      "Hotels",
+      "Factories",
+      "Manufacturers",
+      "Exporters",
+      "Local Businesses",
+      "B2B Companies",
+      "Startups",
+      "Professional Services"
+    ]
+  },
+  "process": {
+    "badge": "Process",
+    "title": "How We Transform a Business",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Diagnose",
+        "label": "Water",
+        "description": "We map your current website, search visibility, customer journey, data flow, and operational gaps."
+      },
+      {
+        "step": "02",
+        "title": "Design",
+        "label": "Land",
+        "description": "We define the infrastructure your business needs to become clearer, more trusted, and easier to operate."
+      },
+      {
+        "step": "03",
+        "title": "Build",
+        "label": "Link",
+        "description": "We build the website, SEO system, AI tools, automations, catalogs, and software layers that connect the business."
+      },
+      {
+        "step": "04",
+        "title": "Launch",
+        "label": "Tech",
+        "description": "We deploy, connect, test, measure, and prepare the system for real customers and real operations."
+      },
+      {
+        "step": "05",
+        "title": "Evolve",
+        "label": "AI",
+        "description": "We keep improving visibility, automation, AI readiness, and business performance as the market changes."
+      }
+    ]
+  },
+  "systems": {
+    "badge": "Operating Layer",
+    "title": "Not Just a Website. A Business Operating Layer.",
+    "description": "Tiktalink connects public presence, customer acquisition, operational tools, and intelligence into one coherent digital system.",
+    "cardDescription": "Connected into the wider transformation layer rather than treated as a separate task.",
+    "items": [
+      "Website",
+      "Google",
+      "SEO",
+      "Social",
+      "AI",
+      "Automation",
+      "Software",
+      "Analytics"
+    ]
+  },
+  "scenarios": {
+    "badge": "Transformation Scenarios",
+    "title": "Concept systems for real business situations.",
+    "description": "These are honest example transformation models, not fabricated case studies. They show how Tiktalink infrastructure can adapt to different sectors.",
+    "items": [
+      {
+        "title": "Dental Clinic Transformation",
+        "label": "Example transformation model",
+        "points": [
+          "Modern website",
+          "Google visibility",
+          "Appointment flow",
+          "AI assistant",
+          "Patient trust system"
+        ]
+      },
+      {
+        "title": "Restaurant Digital System",
+        "label": "Concept system",
+        "points": [
+          "Menu website",
+          "Google Maps optimization",
+          "Reservation flow",
+          "Review strategy",
+          "Social content structure"
+        ]
+      },
+      {
+        "title": "Law Firm Authority System",
+        "label": "Example transformation model",
+        "points": [
+          "Professional website",
+          "SEO pages",
+          "Consultation form",
+          "Trust-focused content",
+          "Local search presence"
+        ]
+      },
+      {
+        "title": "Factory / Manufacturer B2B System",
+        "label": "Concept system",
+        "points": [
+          "Digital catalog",
+          "Multilingual product pages",
+          "Lead capture",
+          "Exporter visibility",
+          "Future Rootfablink connection"
+        ]
+      }
+    ]
+  },
+  "insights": {
+    "badge": "Insights",
+    "title": "Thinking for the next business internet.",
+    "description": "A growing knowledge base on digital infrastructure, AI readiness, SEO, automation, and modern business systems.",
+    "viewAll": "View all insights",
+    "readArticle": "Read article",
+    "items": [
+      {
+        "title": "Why Every Business Needs an AI-Ready Website",
+        "category": "AI Readiness",
+        "excerpt": "A modern website must be structured for search, trust, automation, and the next generation of AI discovery.",
+        "readingTime": "4 min read"
+      },
+      {
+        "title": "The Difference Between a Website and Digital Infrastructure",
+        "category": "Digital Infrastructure",
+        "excerpt": "A website is a surface. Digital infrastructure connects visibility, conversion, operations, data, and intelligence.",
+        "readingTime": "5 min read"
+      },
+      {
+        "title": "How Local SEO Helps Clinics, Restaurants, and Service Businesses Grow",
+        "category": "Google Visibility",
+        "excerpt": "Local discovery depends on technical foundations, Google Business quality, trust signals, and conversion paths.",
+        "readingTime": "4 min read"
+      },
+      {
+        "title": "From Manual Operations to Intelligent Business Systems",
+        "category": "Automation",
+        "excerpt": "Connected workflows reduce repetitive work and prepare the business for practical AI-enabled operations.",
+        "readingTime": "5 min read"
+      }
+    ],
+    "pageTitle": "Tiktalink Insights"
+  },
+  "cta": {
+    "title": "Ready to Build Your Digital Evolution System?",
+    "description": "Whether you are a clinic, local business, professional service, manufacturer, exporter, or global company, Tiktalink builds the infrastructure that moves your business from presence to performance.",
+    "primary": "Start Your Digital Evolution",
+    "secondary": "Contact Tiktalink"
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Tell us what your business needs to become.",
+    "description": "Share your current situation and the systems you want to build. The form opens a prepared email so there is no fake backend or broken submission.",
+    "socialTitle": "Connect with Tiktalink TechAl",
+    "form": {
+      "name": "Name",
+      "email": "Business email",
+      "company": "Company / business name",
+      "website": "Website URL (optional)",
+      "industry": "Industry",
+      "need": "What do you need?",
+      "message": "Message",
+      "submit": "Prepare email inquiry",
+      "error": "Please check the form details and try again.",
+      "projectTypes": [
+        "Website",
+        "SEO / Google Visibility",
+        "AI Systems",
+        "Automation",
+        "Custom Software",
+        "Digital Catalog",
+        "Full Digital Transformation"
+      ]
+    },
+    "socialAria": "Open Tiktalink TechAl on"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "This privacy policy explains how Tiktalink may collect, use, and protect information submitted through this website.",
+      "sections": [
+        {
+          "title": "Information we may collect",
+          "body": "We may receive contact details, business information, website URLs, project requirements, and messages submitted through inquiry forms or email links."
+        },
+        {
+          "title": "Analytics and cookies",
+          "body": "Analytics tools, cookies, and third-party services may be added later to understand website performance, improve user experience, and measure visibility."
+        },
+        {
+          "title": "Third-party services",
+          "body": "The website may link to social platforms, email services, hosting providers, analytics providers, and other professional tools."
+        },
+        {
+          "title": "Your rights",
+          "body": "You may contact Tiktalink at techal@tiktalink.com to request information about data you have submitted through the website."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "intro": "These terms outline general conditions for using the Tiktalink website and submitting service inquiries.",
+      "sections": [
+        {
+          "title": "Website use",
+          "body": "This website is provided for informational purposes and to allow businesses to contact Tiktalink about digital transformation systems."
+        },
+        {
+          "title": "Service inquiries",
+          "body": "Submitting an inquiry does not create a service agreement. Project terms, scope, and pricing must be confirmed separately in writing."
+        },
+        {
+          "title": "Intellectual property",
+          "body": "Website content, branding, interface design, and copy belong to Tiktalink unless otherwise stated."
+        },
+        {
+          "title": "Limitation of liability",
+          "body": "Tiktalink provides this website on an informational basis and does not guarantee uninterrupted access or specific business outcomes."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "intro": "This cookie policy explains how cookies and similar technologies may be used on the Tiktalink website.",
+      "sections": [
+        {
+          "title": "Essential cookies",
+          "body": "Essential cookies may be used for language preference, routing, security, and basic site functionality."
+        },
+        {
+          "title": "Analytics cookies",
+          "body": "Analytics cookies may be added later to understand traffic, performance, and user interaction patterns."
+        },
+        {
+          "title": "Marketing cookies",
+          "body": "Marketing or remarketing tools may be added in the future only where appropriate consent and configuration are in place."
+        },
+        {
+          "title": "Consent",
+          "body": "A consent management system may be implemented later if analytics or marketing cookies are enabled."
+        }
+      ]
+    },
+    "disclaimer": "This page is provided as a general informational template and should be reviewed by a qualified legal professional before production use."
+  },
+  "footer": {
+    "description": "Digital Evolution Systems for businesses moving from outdated presence to connected, AI-ready infrastructure.",
+    "services": "Services",
+    "company": "Company",
+    "social": "Social",
+    "legal": "Legal",
+    "copyright": "© 2026 Tiktalink TechAl. All rights reserved.",
+    "taglineA": "Digital Evolution",
+    "taglineB": "Systems",
+    "companyLinks": [
+      "Digital Evolution",
+      "Process",
+      "Insights",
+      "Contact"
+    ],
+    "legalLinks": [
+      "Privacy Policy",
+      "Terms of Service",
+      "Cookie Policy"
+    ],
+    "socialAria": "Open Tiktalink TechAl on"
+  },
+  "principles": {
+    "badge": "Infrastructure Principles",
+    "title": "Built like digital infrastructure, not a campaign.",
+    "description": "Tiktalink is designed around durable foundations: secure delivery, search clarity, AI readability, global scale, performance, and automation that respects how real businesses operate.",
+    "items": [
+      {
+        "title": "Secure foundation",
+        "description": "Security headers, validation patterns, and deployment guidance designed before growth creates risk."
+      },
+      {
+        "title": "Search-ready architecture",
+        "description": "Sitemaps, metadata, structured data, and clean routes prepared for long-term organic visibility."
+      },
+      {
+        "title": "AI-readable structure",
+        "description": "Clear company facts, llms.txt, semantic content, and entity signals for AI search environments."
+      },
+      {
+        "title": "Global scalability",
+        "description": "Localized routes, hreflang foundations, RTL support, and international content architecture."
+      },
+      {
+        "title": "Performance-first experience",
+        "description": "Static generation, lightweight visuals, restrained animation, and clean component boundaries."
+      },
+      {
+        "title": "Human-centered automation",
+        "description": "Automation planned around real business workflows, customer clarity, and operational trust."
+      }
+    ]
+  },
+  "engine": {
+    "metaTitle": "Digital Evolution Engine | Tiktalink",
+    "metaDescription": "A future Tiktalink audit concept for assessing website quality, SEO visibility, Google readiness, AI readiness, automation, trust, and digital infrastructure maturity.",
+    "badge": "Future Lead Intelligence",
+    "title": "Digital Evolution Engine",
+    "description": "A future Tiktalink audit layer for understanding how ready a business is across web, search, Google visibility, AI, automation, trust, conversion, and infrastructure.",
+    "primary": "Request a Digital Evolution Audit",
+    "secondary": "Contact Tiktalink",
+    "cardDescription": "Designed as an audit dimension, not an automated score claim. The system will mature into a practical review workflow for serious businesses.",
+    "dimensions": [
+      "Website quality",
+      "SEO visibility",
+      "Google Business readiness",
+      "AI readiness",
+      "Automation maturity",
+      "Social trust",
+      "Conversion system",
+      "Digital infrastructure score"
+    ]
+  },
+  "industryPage": {
+    "badge": "Industry System",
+    "experienceBadge": "Example sector experience",
+    "experienceTitle": "A preview of the website system Tiktalink can build.",
+    "experienceDescription": "This is a sector blueprint, not a real client case study. It shows how a complete website, search, AI, mobile, trust, and conversion layer can work together for this industry.",
+    "modulesTitle": "Sector-specific website modules",
+    "beforeTitle": "Before Tiktalink",
+    "afterTitle": "After Tiktalink",
+    "aiSimulationTitle": "AI assistant simulation",
+    "mobilePreviewTitle": "Mobile experience preview",
+    "conversionPreviewTitle": "Conversion journey preview",
+    "aiQuestion": "Can this website guide a visitor to the right next step?",
+    "aiAnswer": "The assistant clarifies intent, recommends the right page or action, and prepares the inquiry for follow-up.",
+    "mobileItems": [
+      "Fast contact",
+      "Mobile inquiry form",
+      "Map or routing action",
+      "AI assistant",
+      "Follow-up flow"
+    ],
+    "secondaryCta": "Explore services",
+    "focusTitle": "Digital evolution focus",
+    "gapsTitle": "Common digital gaps",
+    "responseTitle": "Tiktalink system response",
+    "overviewTitle": "Sector reality",
+    "websiteTitle": "Example website architecture",
+    "systemsTitle": "Digital systems layer",
+    "seoTitle": "SEO & Google visibility plan",
+    "aiTitle": "AI & automation plan",
+    "trustTitle": "Trust & conversion system",
+    "journeyTitle": "Digital journey visualization",
+    "relatedTitle": "Related sector blueprints",
+    "buildCta": "Build this system for your business",
+    "backToIndustries": "Back to industries",
+    "metaSuffix": "Tiktalink",
+    "headlineTemplate": "Digital infrastructure for {industry}.",
+    "metaDescriptionTemplate": "Tiktalink builds web, SEO, Google visibility, AI, automation, and digital infrastructure systems for {industry}.",
+    "ctaTemplate": "Request a digital audit for {industry}",
+    "painPoints": [
+      "Weak digital visibility",
+      "Disconnected customer journeys",
+      "Manual operations and follow-up"
+    ],
+    "solutions": [
+      "Search-ready website architecture",
+      "Connected lead and inquiry flows",
+      "AI-ready knowledge and automation foundations"
+    ],
+    "services": [
+      "Website Infrastructure",
+      "SEO & Google Visibility",
+      "AI Business Systems",
+      "Automation & Workflow"
+    ],
+    "fallbackCard": "Sector-specific digital infrastructure model for visibility, trust, automation, and growth."
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "meta": {
+    "title": "Tiktalink | Digitala evolutionssystem för moderna företag",
+    "description": "Tiktalink bygger webbplatser, SEO-infrastruktur, AI-system, automation, mjukvara och digitala transformationssystem för företag i alla branscher."
+  },
+  "language": {
+    "label": "Språk",
+    "aria": "Byt språk"
+  },
+  "nav": {
+    "services": "Tjänster",
+    "industries": "Branscher",
+    "aiSystems": "AI-system",
+    "process": "Process",
+    "contact": "Kontakt",
+    "start": "Starta transformationen",
+    "insights": "Insikter",
+    "toggle": "Öppna eller stäng navigationen",
+    "home": "Tiktalink startsida",
+    "skip": "Hoppa till huvudinnehåll"
+  },
+  "hero": {
+    "badge": "Företagsinfrastruktur för AI-eran",
+    "headlineBefore": "Det",
+    "headlineHighlight": "digitala evolutionslagret",
+    "headlineAfter": "för moderna företag",
+    "subheadline": "Tiktalink bygger inte fristående sidor. Vi bygger sammanhängande digitala system där webbplats, Google-synlighet, SEO, automation, mjukvara och AI fungerar som en gemensam infrastruktur för nästa steg i företagets utveckling.",
+    "primaryCta": "Starta din digitala evolution",
+    "secondaryCta": "Utforska infrastrukturen",
+    "labels": [
+      "Webb",
+      "SEO",
+      "Google",
+      "AI",
+      "Automation",
+      "Mjukvara"
+    ],
+    "visual": {
+      "tag": "AI-klart lager",
+      "mobileWater": "Vatten",
+      "mobileLand": "Land",
+      "mobileAi": "AI",
+      "nodes": [
+        {
+          "label": "Ursprung",
+          "meta": "vatten"
+        },
+        {
+          "label": "Grund",
+          "meta": "land"
+        },
+        {
+          "label": "Nätverk",
+          "meta": "länk"
+        },
+        {
+          "label": "Infrastruktur",
+          "meta": "tech"
+        },
+        {
+          "label": "Intelligens",
+          "meta": "AI"
+        }
+      ]
+    }
+  },
+  "evolution": {
+    "badge": "Varumärkesfilosofi",
+    "title": "Från evolution till intelligens",
+    "paragraph1": "Varje stort steg börjar med en övergång. Tiktalink inspireras av idén om en bro mellan två världar: den gamla miljön och nästa fas.",
+    "paragraph2": "I dag står företag inför samma skifte. Från offline till online. Från manuellt till automatiserat. Från sök till AI. Från synlighet till intelligens."
+  },
+  "services": {
+    "badge": "System, inte bara tjänster",
+    "title": "Kompletta digitala system för moderna företag",
+    "description": "Varje lager är utformat för att skapa förtroende, förbättra upptäckbarhet, minska manuellt arbete och göra digital närvaro till en sammanlänkad affärstillgång.",
+    "items": [
+      {
+        "title": "Webbinfrastruktur",
+        "description": "En snabb och pålitlig digital grund för förtroende, söksynlighet och mätbar konvertering."
+      },
+      {
+        "title": "SEO och Google-synlighet",
+        "description": "Teknisk SEO, lokal sökning, Google Business-optimering och synlighetssystem som gör företaget lättare att hitta."
+      },
+      {
+        "title": "AI-system för företag",
+        "description": "AI-assistenter, kunskapsbaser, workflow-intelligens och kundsupportsystem som stärker teamets kapacitet."
+      },
+      {
+        "title": "Social infrastruktur",
+        "description": "Professionell profilstruktur, innehållssystem, varumärkeskonsekvens och tydlig närvaro i sociala kanaler."
+      },
+      {
+        "title": "Anpassad mjukvara",
+        "description": "Dashboards, bokningsverktyg, interna plattformar och mjukvara som följer verksamhetens verkliga arbetssätt."
+      },
+      {
+        "title": "Automation och workflow",
+        "description": "Kopplade flöden för formulär, leads, uppgifter, e-post, CRM-åtgärder och kundresor."
+      },
+      {
+        "title": "Digitala kataloger",
+        "description": "Moderna produkt- och tjänstekataloger för tillverkare, kliniker, exportörer, tjänsteföretag och B2B-team."
+      },
+      {
+        "title": "Analytics och tillväxtsystem",
+        "description": "Spårning, resultatmätning, konverteringsinsikter och beslutsstöd för kontinuerlig förbättring."
+      }
+    ]
+  },
+  "infrastructure": {
+    "badge": "Komplett digital infrastruktur",
+    "title": "Varje synligt och osynligt lager ett modernt företag behöver.",
+    "description": "Ett modernt företag upptäcks via Google, bedöms via sin webbplats, kontaktas via formulär och meddelanden, drivs genom workflows och förstås i allt högre grad av AI.",
+    "pillars": [
+      "Förtroendearkitektur",
+      "Söksynlighet",
+      "Kundresor",
+      "Operativ automation",
+      "AI-klar kunskap",
+      "Tillväxtmätning"
+    ]
+  },
+  "why": {
+    "badge": "Varför Tiktalink",
+    "title": "Vi bygger det sammanlänkande lagret i ett modernt företag.",
+    "description": "Tiktalink ser längre än en enskild webbplats eller kampanj. Vi designar systemet bakom synlighet, förtroende, kundanskaffning, automation och AI-beredskap.",
+    "items": [
+      {
+        "title": "Vi ser helheten",
+        "description": "Ett företag behöver inte ännu en frikopplad sida. Det behöver webb, Google, SEO, AI, automation och mjukvara som ett sammanhängande operativt lager."
+      },
+      {
+        "title": "Vi bygger för verklig verksamhet",
+        "description": "Kliniker, exportörer, restauranger, tillverkare, jurister och B2B-företag har olika kundresor. Infrastrukturen måste spegla den verkligheten."
+      },
+      {
+        "title": "Vi förbereder för AI-upptäckt",
+        "description": "Sök, innehåll, support, routing och kunskap förändras. Tiktalink strukturerar företag för internets nästa gränssnitt."
+      },
+      {
+        "title": "Vi skapar långsiktig infrastruktur",
+        "description": "Målet är inte en tillfällig kampanj, utan en hållbar digital grund som kan växa med synlighet, automation, intelligens och tillväxt."
+      }
+    ]
+  },
+  "ai": {
+    "badge": "AI-lager för företag",
+    "titleBefore": "AI",
+    "titleAfter": "blir ett nytt affärslager",
+    "description": "Företag behöver mer än sidor på nätet. De behöver strukturerad kunskap, kopplade workflows och gränssnitt som kan svara, vägleda, dirigera och förbättra kundresan.",
+    "items": [
+      {
+        "title": "AI-kundassistenter",
+        "description": "Assistenter som svarar på vanliga frågor, tolkar avsikt och stöttar kunden innan teamet tar över."
+      },
+      {
+        "title": "AI-sökberedskap",
+        "description": "Strukturerat innehåll och kunskapsarkitektur för skiftet från klassisk sökning till AI-stödd upptäckt."
+      },
+      {
+        "title": "AI-innehållssystem",
+        "description": "Återanvändbara innehållsgrunder som håller sidor, tjänster, kataloger och lokal synlighet konsekventa."
+      },
+      {
+        "title": "Intelligent lead-routing",
+        "description": "Routing av förfrågningar, formulär, meddelanden och affärsmöjligheter utifrån kontext, brådska och potential."
+      },
+      {
+        "title": "AI-workflowautomation",
+        "description": "Praktisk automation av återkommande steg, från första kundkontakt till intern uppföljning."
+      },
+      {
+        "title": "AI-kunskapsbaser",
+        "description": "Organiserad företagskunskap som ger team, kunder och AI-system snabbare tillgång till tillförlitliga svar."
+      }
+    ]
+  },
+  "industries": {
+    "badge": "Branscher",
+    "title": "Byggt för varje bransch",
+    "description": "Tiktalink anpassar digitala system till varje sektors verklighet, från tidsbokade kliniker till B2B-tillverkare, exportörer, lokala tjänster och globala företag.",
+    "items": [
+      "Tandkliniker",
+      "Medicinska kliniker",
+      "Läkare",
+      "Jurister",
+      "Apotek",
+      "Skönhetskliniker",
+      "Restauranger",
+      "Fastigheter",
+      "Bilhandlare",
+      "Hotell",
+      "Fabriker",
+      "Tillverkare",
+      "Exportörer",
+      "Lokala företag",
+      "B2B-företag",
+      "Startups",
+      "Professionella tjänster"
+    ]
+  },
+  "process": {
+    "badge": "Process",
+    "title": "Så transformerar vi ett företag",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Diagnos",
+        "label": "Vatten",
+        "description": "Vi kartlägger webbplats, söksynlighet, kundresa, dataflöde och operativa luckor."
+      },
+      {
+        "step": "02",
+        "title": "Design",
+        "label": "Land",
+        "description": "Vi definierar infrastrukturen som gör företaget tydligare, mer trovärdigt och enklare att driva."
+      },
+      {
+        "step": "03",
+        "title": "Bygg",
+        "label": "Länk",
+        "description": "Vi bygger webbplats, SEO-system, AI-verktyg, automationer, kataloger och mjukvarulager som kopplar ihop företaget."
+      },
+      {
+        "step": "04",
+        "title": "Lansera",
+        "label": "Tech",
+        "description": "Vi driftsätter, kopplar, testar, mäter och förbereder systemet för riktiga kunder och verklig drift."
+      },
+      {
+        "step": "05",
+        "title": "Utveckla",
+        "label": "AI",
+        "description": "Vi förbättrar synlighet, automation, AI-beredskap och affärsresultat i takt med att marknaden förändras."
+      }
+    ]
+  },
+  "systems": {
+    "badge": "Operativt lager",
+    "title": "Inte bara en webbplats. Ett operativt lager för företaget.",
+    "description": "Tiktalink kopplar offentlig närvaro, kundanskaffning, operativa verktyg och intelligens till ett sammanhängande digitalt system.",
+    "cardDescription": "Kopplat till det bredare transformationslagret, inte behandlat som en separat uppgift.",
+    "items": [
+      "Webbplats",
+      "Google",
+      "SEO",
+      "Socialt",
+      "AI",
+      "Automation",
+      "Mjukvara",
+      "Analytics"
+    ]
+  },
+  "cta": {
+    "title": "Redo att bygga ert digitala evolutionssystem?",
+    "description": "Oavsett om ni är en klinik, lokal verksamhet, professionell tjänst, tillverkare, exportör eller globalt företag bygger Tiktalink infrastrukturen som tar er från närvaro till resultat.",
+    "primary": "Starta din digitala evolution",
+    "secondary": "Kontakta Tiktalink"
+  },
+  "footer": {
+    "description": "Digitala evolutionssystem för företag som går från föråldrad närvaro till uppkopplad, AI-redo infrastruktur.",
+    "services": "Tjänster",
+    "company": "Företag",
+    "social": "Socialt",
+    "copyright": "© 2026 Tiktalink TechAl. Alla rättigheter förbehållna.",
+    "taglineA": "Digital evolution",
+    "taglineB": "System",
+    "companyLinks": [
+      "Digital evolution",
+      "Process",
+      "Insikter",
+      "Kontakt"
+    ],
+    "legalLinks": [
+      "Integritetspolicy",
+      "Användarvillkor",
+      "Cookiepolicy"
+    ],
+    "legal": "Juridiskt",
+    "socialAria": "Öppna Tiktalink TechAl på"
+  },
+  "scenarios": {
+    "badge": "Transformationsscenarier",
+    "title": "Konceptsystem för verkliga affärssituationer.",
+    "description": "Detta är ärliga exempelmodeller, inte påhittade kundcase.",
+    "items": [
+      {
+        "title": "Transformation av tandklinik",
+        "label": "Exempelmodell",
+        "points": [
+          "Modern webbplats",
+          "Google-synlighet",
+          "Bokningsflöde",
+          "AI-assistent",
+          "Patientförtroende"
+        ]
+      },
+      {
+        "title": "Digitalt system för restaurang",
+        "label": "Konceptsystem",
+        "points": [
+          "Menywebbplats",
+          "Google Maps-optimering",
+          "Reservationsflöde",
+          "Recensionsstrategi",
+          "Social struktur"
+        ]
+      },
+      {
+        "title": "Auktoritetssystem för advokatbyrå",
+        "label": "Exempelmodell",
+        "points": [
+          "Professionell webbplats",
+          "SEO-sidor",
+          "Konsultationsformulär",
+          "Förtroendeinnehåll",
+          "Lokal söknärvaro"
+        ]
+      },
+      {
+        "title": "B2B-system för fabrik / tillverkare",
+        "label": "Konceptsystem",
+        "points": [
+          "Digital katalog",
+          "Flerspråkiga produktsidor",
+          "Leadfångst",
+          "Exportsynlighet",
+          "Framtida Rootfablink-koppling"
+        ]
+      }
+    ]
+  },
+  "insights": {
+    "badge": "Insikter",
+    "title": "Tankar för nästa företagsinternet.",
+    "description": "En växande kunskapsbas om digital infrastruktur, AI-beredskap, SEO, automation och moderna affärssystem.",
+    "viewAll": "Visa alla insikter",
+    "readArticle": "Läs artikeln",
+    "items": [
+      {
+        "title": "Varför varje företag behöver en AI-redo webbplats",
+        "category": "AI-beredskap",
+        "excerpt": "En modern webbplats behöver vara strukturerad för sök, förtroende, automation och nästa generation AI-upptäckt.",
+        "readingTime": "4 min läsning"
+      },
+      {
+        "title": "Skillnaden mellan en webbplats och digital infrastruktur",
+        "category": "Digital infrastruktur",
+        "excerpt": "Webbplatsen är ytan. Digital infrastruktur binder ihop synlighet, konvertering, drift, data och intelligens.",
+        "readingTime": "5 min läsning"
+      },
+      {
+        "title": "Hur lokal SEO hjälper kliniker, restauranger och tjänsteföretag att växa",
+        "category": "Google-synlighet",
+        "excerpt": "Lokal upptäckt bygger på teknisk grund, Google Business-kvalitet, förtroendesignaler och konverteringsvägar.",
+        "readingTime": "4 min läsning"
+      },
+      {
+        "title": "Från manuella processer till intelligenta affärssystem",
+        "category": "Automation",
+        "excerpt": "Kopplade arbetsflöden minskar repetitivt arbete och förbereder företaget för praktisk AI-stödd drift.",
+        "readingTime": "5 min läsning"
+      }
+    ],
+    "pageTitle": "Tiktalink Insikter"
+  },
+  "contact": {
+    "badge": "Kontakt",
+    "title": "Berätta vad ditt företag behöver bli.",
+    "description": "Dela nuläget och systemen du vill bygga. Formuläret öppnar ett förberett e-postmeddelande utan falsk backend.",
+    "socialTitle": "Anslut med Tiktalink TechAl",
+    "form": {
+      "name": "Namn",
+      "email": "Företagsmejl",
+      "company": "Företag",
+      "website": "Webbplats-URL (valfritt)",
+      "industry": "Bransch",
+      "need": "Vad behöver du?",
+      "message": "Meddelande",
+      "submit": "Förbered e-postförfrågan",
+      "error": "Kontrollera uppgifterna i formuläret och försök igen.",
+      "projectTypes": [
+        "Webbplats",
+        "SEO / Google-synlighet",
+        "AI-system",
+        "Automation",
+        "Anpassad mjukvara",
+        "Digital katalog",
+        "Full digital transformation"
+      ]
+    },
+    "socialAria": "Öppna Tiktalink TechAl på"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Integritetspolicy",
+      "intro": "Denna integritetspolicy förklarar hur Tiktalink kan samla in, använda och skydda information som skickas via webbplatsen.",
+      "sections": [
+        {
+          "title": "Information vi kan samla in",
+          "body": "Vi kan ta emot kontaktuppgifter, företagsinformation, webbadresser, projektbehov och meddelanden via formulär eller e-postlänkar."
+        },
+        {
+          "title": "Analys och cookies",
+          "body": "Analysverktyg, cookies och tredjepartstjänster kan läggas till senare för att förstå prestanda och förbättra upplevelsen."
+        },
+        {
+          "title": "Tredjepartstjänster",
+          "body": "Webbplatsen kan länka till sociala plattformar, e-posttjänster, hosting, analysverktyg och professionella verktyg."
+        },
+        {
+          "title": "Dina rättigheter",
+          "body": "Du kan kontakta Tiktalink på techal@tiktalink.com för information om data du skickat via webbplatsen."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Användarvillkor",
+      "intro": "Dessa villkor beskriver allmänna regler för användning av Tiktalinks webbplats och inskickade tjänsteförfrågningar.",
+      "sections": [
+        {
+          "title": "Användning av webbplatsen",
+          "body": "Webbplatsen tillhandahålls i informationssyfte och gör det möjligt för företag att kontakta Tiktalink om digitala transformationssystem."
+        },
+        {
+          "title": "Tjänsteförfrågningar",
+          "body": "En förfrågan skapar inget tjänsteavtal. Omfattning, villkor och pris måste bekräftas separat skriftligen."
+        },
+        {
+          "title": "Immateriella rättigheter",
+          "body": "Innehåll, varumärke, gränssnittsdesign och texter tillhör Tiktalink om inget annat anges."
+        },
+        {
+          "title": "Ansvarsbegränsning",
+          "body": "Tiktalink tillhandahåller webbplatsen i informationssyfte och garanterar inte oavbruten åtkomst eller specifika affärsresultat."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Cookiepolicy",
+      "intro": "Denna cookiepolicy förklarar hur cookies och liknande tekniker kan användas på Tiktalinks webbplats.",
+      "sections": [
+        {
+          "title": "Nödvändiga cookies",
+          "body": "Nödvändiga cookies kan användas för språkval, routing, säkerhet och grundläggande funktioner."
+        },
+        {
+          "title": "Analyscookies",
+          "body": "Analyscookies kan läggas till senare för att förstå trafik, prestanda och interaktion."
+        },
+        {
+          "title": "Marknadsföringscookies",
+          "body": "Marknadsförings- eller remarketingverktyg kan läggas till endast med rätt samtycke och konfiguration."
+        },
+        {
+          "title": "Samtycke",
+          "body": "Ett system för samtyckeshantering kan införas om analys- eller marknadsföringscookies aktiveras."
+        }
+      ]
+    },
+    "disclaimer": "Denna sida är en allmän informationsmall och bör granskas av en kvalificerad jurist före produktion."
+  },
+  "principles": {
+    "badge": "Infrastrukturprinciper",
+    "title": "Byggt som digital infrastruktur, inte som en kampanj.",
+    "description": "Tiktalink bygger på hållbara grunder: säker leverans, söktydlighet, AI-läsbarhet, global skala, prestanda och automation för verkliga verksamheter.",
+    "items": [
+      {
+        "title": "Säker grund",
+        "description": "Säkerhetsheaders, validering och distributionsstöd innan tillväxt skapar risk."
+      },
+      {
+        "title": "Sökredo arkitektur",
+        "description": "Sitemaps, metadata, strukturerad data och rena rutter för långsiktig organisk synlighet."
+      },
+      {
+        "title": "AI-läsbar struktur",
+        "description": "Tydliga företagsfakta, llms.txt, semantiskt innehåll och entitetssignaler."
+      },
+      {
+        "title": "Global skalbarhet",
+        "description": "Lokaliserade rutter, hreflang, RTL-stöd och internationell innehållsarkitektur."
+      },
+      {
+        "title": "Prestanda först",
+        "description": "Statisk generering, lätta visuella element, återhållsam animation och tydliga komponenter."
+      },
+      {
+        "title": "Människocentrerad automation",
+        "description": "Automation planeras runt verkliga arbetsflöden, kundtydlighet och operativt förtroende."
+      }
+    ]
+  },
+  "engine": {
+    "metaTitle": "Digital Evolution Engine | Tiktalink",
+    "metaDescription": "Tiktalinks framtida auditkoncept för webbplatskvalitet, SEO, Google, AI, automation, förtroende och digital mognad.",
+    "badge": "Framtida lead-intelligens",
+    "title": "Digital Evolution Engine",
+    "description": "Ett framtida Tiktalink-lager för att förstå företagets beredskap inom webb, sök, Google, AI, automation, förtroende, konvertering och infrastruktur.",
+    "primary": "Begär en digital evolutionsaudit",
+    "secondary": "Kontakta Tiktalink",
+    "cardDescription": "Utformat som en auditdimension, inte som ett automatiskt poänglöfte. Systemet utvecklas mot ett praktiskt granskningsflöde.",
+    "dimensions": [
+      "Webbplatskvalitet",
+      "SEO-synlighet",
+      "Google Business-beredskap",
+      "AI-beredskap",
+      "Automationsmognad",
+      "Socialt förtroende",
+      "Konverteringssystem",
+      "Digital infrastrukturpoäng"
+    ]
+  },
+  "industryPage": {
+    "badge": "Branschsystem",
+    "experienceBadge": "Exempel på branschupplevelse",
+    "experienceTitle": "Förhandsvy av webbplatssystemet Tiktalink kan bygga.",
+    "experienceDescription": "Detta är en branschmodell, inte ett verkligt kundcase. Den visar hur webbplats, sök, AI, mobil, förtroende och konvertering kan samverka för branschen.",
+    "modulesTitle": "Branschspecifika webbmoduler",
+    "beforeTitle": "Före Tiktalink",
+    "afterTitle": "Efter Tiktalink",
+    "aiSimulationTitle": "Simulering av AI-assistent",
+    "mobilePreviewTitle": "Förhandsvy av mobil upplevelse",
+    "conversionPreviewTitle": "Förhandsvy av konverteringsresa",
+    "aiQuestion": "Kan webbplatsen guida besökaren till rätt nästa steg?",
+    "aiAnswer": "Assistenten klargör avsikten, rekommenderar rätt sida eller åtgärd och förbereder förfrågan för uppföljning.",
+    "mobileItems": [
+      "Snabb kontakt",
+      "Mobilt formulär",
+      "Karta eller vägledning",
+      "AI-assistent",
+      "Uppföljningsflöde"
+    ],
+    "secondaryCta": "Utforska tjänster",
+    "focusTitle": "Fokus för digital evolution",
+    "gapsTitle": "Vanliga digitala gap",
+    "responseTitle": "Tiktalinks systemrespons",
+    "overviewTitle": "Branschens verklighet",
+    "websiteTitle": "Exempel på webbplatsarkitektur",
+    "systemsTitle": "Digitalt systemlager",
+    "seoTitle": "Plan för SEO och Google-synlighet",
+    "aiTitle": "Plan för AI och automation",
+    "trustTitle": "Förtroende- och konverteringssystem",
+    "journeyTitle": "Visualisering av digital resa",
+    "relatedTitle": "Relaterade branschmodeller",
+    "buildCta": "Bygg detta system för ditt företag",
+    "backToIndustries": "Tillbaka till branscher",
+    "metaSuffix": "Tiktalink",
+    "headlineTemplate": "Digital infrastruktur för {industry}.",
+    "metaDescriptionTemplate": "Tiktalink bygger system för webb, SEO, Google-synlighet, AI, automation och digital infrastruktur för {industry}.",
+    "ctaTemplate": "Begär digital audit för {industry}",
+    "painPoints": [
+      "Svag digital synlighet",
+      "Osammanhängande kundresor",
+      "Manuella processer och uppföljning"
+    ],
+    "solutions": [
+      "Sökredo webbarkitektur",
+      "Kopplade förfrågnings- och leadflöden",
+      "AI-redo kunskaps- och automationsgrund"
+    ],
+    "services": [
+      "Webbinfrastruktur",
+      "SEO och Google-synlighet",
+      "AI-system",
+      "Automation"
+    ],
+    "fallbackCard": "Branschspecifik digital infrastrukturmodell för synlighet, förtroende, automation och tillväxt."
+  }
+}

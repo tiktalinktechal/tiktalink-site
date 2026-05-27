@@ -1,0 +1,572 @@
+{
+  "meta": {
+    "title": "Tiktalink | Sistemas de evolução digital para empresas modernas",
+    "description": "A Tiktalink cria websites, infraestrutura SEO, sistemas de IA, automação, software e sistemas de transformação digital para empresas de todos os setores."
+  },
+  "language": {
+    "label": "Idioma",
+    "aria": "Alterar idioma"
+  },
+  "nav": {
+    "services": "Serviços",
+    "industries": "Setores",
+    "aiSystems": "Sistemas de IA",
+    "process": "Processo",
+    "contact": "Contato",
+    "start": "Iniciar transformação",
+    "insights": "Artigos",
+    "toggle": "Abrir ou fechar menu",
+    "home": "Início da Tiktalink",
+    "skip": "Ir para o conteúdo principal"
+  },
+  "hero": {
+    "badge": "Infraestrutura empresarial para a era da IA",
+    "headlineBefore": "A",
+    "headlineHighlight": "camada de evolução digital",
+    "headlineAfter": "para empresas modernas",
+    "subheadline": "A Tiktalink não cria páginas soltas. Criamos sistemas digitais completos, conectando websites, visibilidade no Google, infraestrutura de SEO, automação, software e IA para levar empresas de uma presença ultrapassada a uma infraestrutura pronta para o futuro.",
+    "primaryCta": "Iniciar sua evolução digital",
+    "secondaryCta": "Explorar a infraestrutura",
+    "labels": [
+      "Web",
+      "SEO",
+      "Google",
+      "IA",
+      "Automação",
+      "Software"
+    ],
+    "visual": {
+      "tag": "Camada pronta para IA",
+      "mobileWater": "Água",
+      "mobileLand": "Terra",
+      "mobileAi": "IA",
+      "nodes": [
+        {
+          "label": "Origem",
+          "meta": "água"
+        },
+        {
+          "label": "Fundação",
+          "meta": "terra"
+        },
+        {
+          "label": "Rede",
+          "meta": "link"
+        },
+        {
+          "label": "Infraestrutura",
+          "meta": "tech"
+        },
+        {
+          "label": "Inteligência",
+          "meta": "IA"
+        }
+      ]
+    }
+  },
+  "evolution": {
+    "badge": "Filosofia da marca",
+    "title": "Da evolução à inteligência",
+    "paragraph1": "Toda grande mudança começa com uma transição. A Tiktalink se inspira nessa passagem entre dois mundos: o ambiente antigo e a próxima etapa.",
+    "paragraph2": "Hoje, empresas vivem o mesmo movimento. Do offline para o online. Do manual para o automatizado. Da busca para a IA. Da visibilidade para a inteligência."
+  },
+  "services": {
+    "badge": "Sistemas, não apenas serviços",
+    "title": "Sistemas digitais completos para empresas modernas",
+    "description": "Cada camada é pensada para gerar confiança, melhorar a descoberta, reduzir trabalho manual e transformar presença digital em um ativo conectado.",
+    "items": [
+      {
+        "title": "Infraestrutura de website",
+        "description": "Fundação digital de alta performance para confiança, velocidade, visibilidade em busca e conversão mensurável."
+      },
+      {
+        "title": "SEO e visibilidade no Google",
+        "description": "SEO técnico, busca local, otimização do Google Business e sistemas de visibilidade para sua empresa ser encontrada no momento certo."
+      },
+      {
+        "title": "Sistemas de IA para empresas",
+        "description": "Assistentes de IA, bases de conhecimento, inteligência de workflow e suporte ao cliente para ampliar a capacidade da equipe."
+      },
+      {
+        "title": "Infraestrutura social",
+        "description": "Arquitetura de perfis, sistemas de conteúdo, consistência de marca e presença profissional nos canais sociais."
+      },
+      {
+        "title": "Software sob medida",
+        "description": "Dashboards, ferramentas de agendamento, plataformas internas e software alinhado à operação real da empresa."
+      },
+      {
+        "title": "Automação e workflow",
+        "description": "Fluxos conectados para formulários, leads, tarefas, e-mail, CRM e jornadas de clientes."
+      },
+      {
+        "title": "Catálogos digitais",
+        "description": "Catálogos modernos de produtos e serviços para fabricantes, clínicas, exportadores, prestadores de serviço e equipes B2B."
+      },
+      {
+        "title": "Analytics e crescimento",
+        "description": "Rastreamento, medição de performance, inteligência de conversão e sistemas de decisão para melhoria contínua."
+      }
+    ]
+  },
+  "infrastructure": {
+    "badge": "Infraestrutura digital completa",
+    "title": "Cada camada visível e invisível que uma empresa moderna precisa.",
+    "description": "Uma empresa moderna é descoberta no Google, avaliada pelo website, contatada por formulários e mensagens, operada por workflows e cada vez mais compreendida pela IA.",
+    "pillars": [
+      "Arquitetura de confiança",
+      "Visibilidade em busca",
+      "Jornadas de cliente",
+      "Automação operacional",
+      "Conhecimento pronto para IA",
+      "Medição de crescimento"
+    ]
+  },
+  "why": {
+    "badge": "Por que Tiktalink",
+    "title": "Construímos o tecido conectivo de uma empresa moderna.",
+    "description": "A Tiktalink olha além de um website ou campanha. Projetamos o sistema por trás da visibilidade, da confiança, da aquisição de clientes, da automação e da preparação para IA.",
+    "items": [
+      {
+        "title": "Vemos o sistema como um todo",
+        "description": "Uma empresa não precisa de mais uma página desconectada. Precisa de web, Google, SEO, IA, automação e software funcionando como uma única camada operacional."
+      },
+      {
+        "title": "Construímos para a realidade do negócio",
+        "description": "Clínicas, exportadores, restaurantes, fabricantes, escritórios jurídicos e empresas B2B têm jornadas diferentes. A infraestrutura precisa respeitar esse contexto."
+      },
+      {
+        "title": "Preparamos para a descoberta por IA",
+        "description": "Busca, conteúdo, suporte, roteamento e conhecimento estão mudando. A Tiktalink estrutura empresas para a próxima interface da internet."
+      },
+      {
+        "title": "Criamos infraestrutura de longo prazo",
+        "description": "O objetivo não é uma campanha passageira, mas uma base digital durável que evolui com visibilidade, automação, inteligência e crescimento."
+      }
+    ]
+  },
+  "ai": {
+    "badge": "Camada empresarial de IA",
+    "titleBefore": "A IA",
+    "titleAfter": "está se tornando uma nova camada de negócio",
+    "description": "Empresas precisam de mais do que páginas online. Precisam de conhecimento estruturado, workflows conectados e interfaces capazes de responder, orientar, encaminhar e melhorar a jornada do cliente.",
+    "items": [
+      {
+        "title": "Assistentes de cliente com IA",
+        "description": "Assistentes que respondem perguntas frequentes, qualificam a intenção e apoiam o cliente antes da entrada da equipe."
+      },
+      {
+        "title": "Preparação para busca por IA",
+        "description": "Conteúdo estruturado e arquitetura de conhecimento para a mudança da busca tradicional para a descoberta assistida por IA."
+      },
+      {
+        "title": "Sistemas de conteúdo com IA",
+        "description": "Bases reutilizáveis para manter páginas, serviços, catálogos e visibilidade local consistentes."
+      },
+      {
+        "title": "Roteamento inteligente de leads",
+        "description": "Encaminhamento de consultas, formulários, mensagens e oportunidades com base em contexto, urgência e potencial."
+      },
+      {
+        "title": "Automação de workflows com IA",
+        "description": "Automação prática de etapas repetitivas, da entrada do cliente ao acompanhamento interno."
+      },
+      {
+        "title": "Bases de conhecimento para IA",
+        "description": "Conhecimento empresarial organizado para que equipes, clientes e sistemas de IA encontrem respostas confiáveis com mais rapidez."
+      }
+    ]
+  },
+  "industries": {
+    "badge": "Setores",
+    "title": "Construído para todos os setores",
+    "description": "A Tiktalink adapta sistemas digitais à realidade de cada setor, de clínicas com agendamento a fabricantes B2B, exportadores, serviços locais e empresas globais.",
+    "items": [
+      "Clínicas odontológicas",
+      "Clínicas médicas",
+      "Médicos",
+      "Advogados",
+      "Farmácias",
+      "Centros de estética",
+      "Restaurantes",
+      "Imobiliárias",
+      "Concessionárias",
+      "Hotéis",
+      "Fábricas",
+      "Fabricantes",
+      "Exportadores",
+      "Negócios locais",
+      "Empresas B2B",
+      "Startups",
+      "Serviços profissionais"
+    ]
+  },
+  "process": {
+    "badge": "Processo",
+    "title": "Como transformamos uma empresa",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Diagnosticar",
+        "label": "Água",
+        "description": "Mapeamos website, visibilidade em busca, jornada do cliente, fluxo de dados e lacunas operacionais."
+      },
+      {
+        "step": "02",
+        "title": "Desenhar",
+        "label": "Terra",
+        "description": "Definimos a infraestrutura necessária para tornar a empresa mais clara, confiável e fácil de operar."
+      },
+      {
+        "step": "03",
+        "title": "Construir",
+        "label": "Link",
+        "description": "Criamos website, SEO, ferramentas de IA, automações, catálogos e camadas de software que conectam a empresa."
+      },
+      {
+        "step": "04",
+        "title": "Lançar",
+        "label": "Tech",
+        "description": "Implantamos, conectamos, testamos, medimos e preparamos o sistema para clientes e operações reais."
+      },
+      {
+        "step": "05",
+        "title": "Evoluir",
+        "label": "IA",
+        "description": "Seguimos aprimorando visibilidade, automação, preparo para IA e performance conforme o mercado evolui."
+      }
+    ]
+  },
+  "systems": {
+    "badge": "Camada operacional",
+    "title": "Não apenas um website. Uma camada operacional de negócio.",
+    "description": "A Tiktalink conecta presença pública, aquisição de clientes, ferramentas operacionais e inteligência em um sistema digital coerente.",
+    "cardDescription": "Conectado à camada ampla de transformação, em vez de tratado como uma tarefa isolada.",
+    "items": [
+      "Website",
+      "Google",
+      "SEO",
+      "Social",
+      "IA",
+      "Automação",
+      "Software",
+      "Analytics"
+    ]
+  },
+  "cta": {
+    "title": "Pronto para construir seu sistema de evolução digital?",
+    "description": "Seja uma clínica, negócio local, serviço profissional, fabricante, exportador ou empresa global, a Tiktalink constrói a infraestrutura que leva sua empresa de presença a performance.",
+    "primary": "Iniciar sua evolução digital",
+    "secondary": "Falar com a Tiktalink"
+  },
+  "footer": {
+    "description": "Sistemas de evolução digital para empresas que passam de uma presença desatualizada para uma infraestrutura conectada e pronta para IA.",
+    "services": "Serviços",
+    "company": "Empresa",
+    "social": "Social",
+    "copyright": "© 2026 Tiktalink TechAl. Todos os direitos reservados.",
+    "taglineA": "Evolução digital",
+    "taglineB": "Sistemas",
+    "companyLinks": [
+      "Evolução digital",
+      "Processo",
+      "Artigos",
+      "Contato"
+    ],
+    "legalLinks": [
+      "Política de privacidade",
+      "Termos de serviço",
+      "Política de cookies"
+    ],
+    "legal": "Legal",
+    "socialAria": "Abrir Tiktalink TechAl em"
+  },
+  "scenarios": {
+    "badge": "Cenários de transformação",
+    "title": "Sistemas conceituais para situações reais de negócio.",
+    "description": "São modelos honestos de transformação, não estudos de caso inventados.",
+    "items": [
+      {
+        "title": "Transformação de clínica odontológica",
+        "label": "Modelo de transformação",
+        "points": [
+          "Website moderno",
+          "Visibilidade no Google",
+          "Fluxo de agendamento",
+          "Assistente de IA",
+          "Sistema de confiança do paciente"
+        ]
+      },
+      {
+        "title": "Sistema digital para restaurante",
+        "label": "Sistema conceitual",
+        "points": [
+          "Website de menu",
+          "Otimização no Google Maps",
+          "Fluxo de reservas",
+          "Estratégia de avaliações",
+          "Estrutura social"
+        ]
+      },
+      {
+        "title": "Sistema de autoridade para escritório jurídico",
+        "label": "Modelo de transformação",
+        "points": [
+          "Website profissional",
+          "Páginas SEO",
+          "Formulário de consulta",
+          "Conteúdo de confiança",
+          "Presença local"
+        ]
+      },
+      {
+        "title": "Sistema B2B para fábrica / fabricante",
+        "label": "Sistema conceitual",
+        "points": [
+          "Catálogo digital",
+          "Páginas multilíngues",
+          "Captura de leads",
+          "Visibilidade exportadora",
+          "Futura conexão Rootfablink"
+        ]
+      }
+    ]
+  },
+  "insights": {
+    "badge": "Artigos",
+    "title": "Pensamento para a próxima internet dos negócios.",
+    "description": "Uma base de conhecimento sobre infraestrutura digital, preparação para IA, SEO, automação e sistemas empresariais modernos.",
+    "viewAll": "Ver todos os artigos",
+    "readArticle": "Ler artigo",
+    "items": [
+      {
+        "title": "Por que toda empresa precisa de um website pronto para IA",
+        "category": "Preparação para IA",
+        "excerpt": "Um website moderno precisa ser estruturado para busca, confiança, automação e a próxima geração de descoberta por IA.",
+        "readingTime": "4 min de leitura"
+      },
+      {
+        "title": "A diferença entre website e infraestrutura digital",
+        "category": "Infraestrutura digital",
+        "excerpt": "O website é a superfície. A infraestrutura digital conecta visibilidade, conversão, operações, dados e inteligência.",
+        "readingTime": "5 min de leitura"
+      },
+      {
+        "title": "Como o SEO local ajuda clínicas, restaurantes e serviços a crescer",
+        "category": "Visibilidade no Google",
+        "excerpt": "A descoberta local depende de bases técnicas, qualidade no Google Business, sinais de confiança e caminhos de conversão.",
+        "readingTime": "4 min de leitura"
+      },
+      {
+        "title": "De operações manuais a sistemas empresariais inteligentes",
+        "category": "Automação",
+        "excerpt": "Fluxos conectados reduzem tarefas repetitivas e preparam a empresa para operações práticas com IA.",
+        "readingTime": "5 min de leitura"
+      }
+    ],
+    "pageTitle": "Artigos da Tiktalink"
+  },
+  "contact": {
+    "badge": "Contato",
+    "title": "Conte-nos no que sua empresa precisa se transformar.",
+    "description": "Compartilhe sua situação atual e os sistemas que deseja construir. O formulário abre um e-mail preparado, sem backend falso ou envio quebrado.",
+    "socialTitle": "Conecte-se com a Tiktalink TechAl",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail profissional",
+      "company": "Empresa",
+      "website": "URL do website (opcional)",
+      "industry": "Setor",
+      "need": "Do que você precisa?",
+      "message": "Mensagem",
+      "submit": "Preparar pedido por e-mail",
+      "error": "Verifique os dados do formulário e tente novamente.",
+      "projectTypes": [
+        "Website",
+        "SEO / Visibilidade no Google",
+        "Sistemas de IA",
+        "Automação",
+        "Software personalizado",
+        "Catálogo digital",
+        "Transformação digital completa"
+      ]
+    },
+    "socialAria": "Abrir Tiktalink TechAl em"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Política de privacidade",
+      "intro": "Esta política explica como a Tiktalink pode recolher, usar e proteger informações enviadas através deste website.",
+      "sections": [
+        {
+          "title": "Informações que podemos recolher",
+          "body": "Podemos receber dados de contacto, informações da empresa, URLs, requisitos de projeto e mensagens enviadas por formulários ou links de e-mail."
+        },
+        {
+          "title": "Analítica e cookies",
+          "body": "Ferramentas de analítica, cookies e serviços de terceiros poderão ser adicionados para melhorar desempenho, experiência e visibilidade."
+        },
+        {
+          "title": "Serviços de terceiros",
+          "body": "O website pode incluir links para plataformas sociais, serviços de e-mail, alojamento, analítica e ferramentas profissionais."
+        },
+        {
+          "title": "Os seus direitos",
+          "body": "Pode contactar a Tiktalink em techal@tiktalink.com para solicitar informações sobre dados enviados através do website."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Termos de serviço",
+      "intro": "Estes termos descrevem as condições gerais de utilização do website da Tiktalink e do envio de pedidos de serviço.",
+      "sections": [
+        {
+          "title": "Utilização do website",
+          "body": "Este website é disponibilizado para fins informativos e para permitir que empresas contactem a Tiktalink sobre sistemas de transformação digital."
+        },
+        {
+          "title": "Pedidos de serviço",
+          "body": "O envio de um pedido não cria um contrato de serviço. Escopo, condições e preço devem ser confirmados separadamente por escrito."
+        },
+        {
+          "title": "Propriedade intelectual",
+          "body": "Conteúdo, marca, design de interface e textos pertencem à Tiktalink, salvo indicação em contrário."
+        },
+        {
+          "title": "Limitação de responsabilidade",
+          "body": "A Tiktalink disponibiliza este website para fins informativos e não garante acesso ininterrupto nem resultados comerciais específicos."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Política de cookies",
+      "intro": "Esta política explica como cookies e tecnologias semelhantes podem ser usados no website da Tiktalink.",
+      "sections": [
+        {
+          "title": "Cookies essenciais",
+          "body": "Cookies essenciais podem ser usados para preferência de idioma, encaminhamento, segurança e funcionalidades básicas."
+        },
+        {
+          "title": "Cookies analíticos",
+          "body": "Cookies analíticos poderão ser adicionados para compreender tráfego, desempenho e padrões de interação."
+        },
+        {
+          "title": "Cookies de marketing",
+          "body": "Ferramentas de marketing ou remarketing poderão ser adicionadas apenas com consentimento e configuração adequados."
+        },
+        {
+          "title": "Consentimento",
+          "body": "Um sistema de gestão de consentimento poderá ser implementado se cookies analíticos ou de marketing forem ativados."
+        }
+      ]
+    },
+    "disclaimer": "Esta página é um modelo informativo geral e deve ser revista por um profissional jurídico qualificado antes de produção."
+  },
+  "principles": {
+    "badge": "Princípios de infraestrutura",
+    "title": "Construído como infraestrutura digital, não como campanha.",
+    "description": "A Tiktalink se apoia em bases duráveis: segurança, clareza para busca, leitura por IA, escala global, performance e automação pensada para negócios reais.",
+    "items": [
+      {
+        "title": "Base segura",
+        "description": "Cabeçalhos de segurança, validação e orientação de implantação antes de o crescimento criar risco."
+      },
+      {
+        "title": "Arquitetura pronta para busca",
+        "description": "Sitemaps, metadados, dados estruturados e rotas limpas para visibilidade orgânica duradoura."
+      },
+      {
+        "title": "Estrutura legível por IA",
+        "description": "Fatos claros da empresa, llms.txt, conteúdo semântico e sinais de entidade."
+      },
+      {
+        "title": "Escalabilidade global",
+        "description": "Rotas localizadas, hreflang, suporte RTL e arquitetura internacional."
+      },
+      {
+        "title": "Experiência orientada a performance",
+        "description": "Geração estática, visuais leves, animação contida e componentes claros."
+      },
+      {
+        "title": "Automação centrada em pessoas",
+        "description": "Automação planejada em torno de fluxos reais, clareza para clientes e confiança operacional."
+      }
+    ]
+  },
+  "engine": {
+    "metaTitle": "Motor de evolução digital | Tiktalink",
+    "metaDescription": "Conceito de auditoria da Tiktalink para avaliar website, SEO, Google, IA, automação, confiança e maturidade digital.",
+    "badge": "Inteligência futura de leads",
+    "title": "Motor de evolução digital",
+    "description": "Uma futura camada de auditoria para entender a preparação de uma empresa em web, busca, Google, IA, automação, confiança, conversão e infraestrutura.",
+    "primary": "Solicitar auditoria de evolução digital",
+    "secondary": "Contactar a Tiktalink",
+    "cardDescription": "Criado como dimensão de auditoria, não como promessa de pontuação automática. O sistema evoluirá para um fluxo prático de avaliação.",
+    "dimensions": [
+      "Qualidade do website",
+      "Visibilidade SEO",
+      "Preparação Google Business",
+      "Preparação para IA",
+      "Maturidade de automação",
+      "Confiança social",
+      "Sistema de conversão",
+      "Pontuação de infraestrutura digital"
+    ]
+  },
+  "industryPage": {
+    "badge": "Sistema setorial",
+    "experienceBadge": "Experiência setorial de exemplo",
+    "experienceTitle": "Prévia do sistema web que a Tiktalink pode construir.",
+    "experienceDescription": "Este é um modelo setorial, não um caso real de cliente. Ele mostra como website, busca, IA, mobile, confiança e conversão podem trabalhar juntos para este setor.",
+    "modulesTitle": "Módulos web específicos do setor",
+    "beforeTitle": "Antes da Tiktalink",
+    "afterTitle": "Depois da Tiktalink",
+    "aiSimulationTitle": "Simulação de assistente de IA",
+    "mobilePreviewTitle": "Prévia da experiência mobile",
+    "conversionPreviewTitle": "Prévia da jornada de conversão",
+    "aiQuestion": "Este site pode orientar o visitante para o próximo passo certo?",
+    "aiAnswer": "O assistente esclarece a intenção, recomenda a página ou ação correta e prepara a solicitação para acompanhamento.",
+    "mobileItems": [
+      "Contato rápido",
+      "Formulário mobile",
+      "Mapa ou direcionamento",
+      "Assistente de IA",
+      "Fluxo de acompanhamento"
+    ],
+    "secondaryCta": "Explorar serviços",
+    "focusTitle": "Foco de evolução digital",
+    "gapsTitle": "Lacunas digitais comuns",
+    "responseTitle": "Resposta do sistema Tiktalink",
+    "overviewTitle": "Realidade do setor",
+    "websiteTitle": "Arquitetura de website exemplo",
+    "systemsTitle": "Camada de sistemas digitais",
+    "seoTitle": "Plano de SEO e visibilidade no Google",
+    "aiTitle": "Plano de IA e automação",
+    "trustTitle": "Sistema de confiança e conversão",
+    "journeyTitle": "Visualização da jornada digital",
+    "relatedTitle": "Modelos setoriais relacionados",
+    "buildCta": "Construir este sistema para sua empresa",
+    "backToIndustries": "Voltar aos setores",
+    "metaSuffix": "Tiktalink",
+    "headlineTemplate": "Infraestrutura digital para {industry}.",
+    "metaDescriptionTemplate": "A Tiktalink cria sistemas de web, SEO, visibilidade no Google, IA, automação e infraestrutura digital para {industry}.",
+    "ctaTemplate": "Solicitar auditoria digital para {industry}",
+    "painPoints": [
+      "Baixa visibilidade digital",
+      "Jornadas de cliente desconectadas",
+      "Operações e acompanhamento manuais"
+    ],
+    "solutions": [
+      "Arquitetura de website pronta para busca",
+      "Fluxos conectados de pedidos e leads",
+      "Base de conhecimento e automação pronta para IA"
+    ],
+    "services": [
+      "Infraestrutura web",
+      "SEO e visibilidade no Google",
+      "Sistemas de IA",
+      "Automação"
+    ],
+    "fallbackCard": "Modelo de infraestrutura digital setorial para visibilidade, confiança, automação e crescimento."
+  }
+}

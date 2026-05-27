@@ -1,0 +1,572 @@
+{
+  "meta": {
+    "title": "Tiktalink | Modern İşletmeler İçin Dijital Evrim Sistemleri",
+    "description": "Tiktalink, her sektörden işletme için web sitesi, SEO altyapısı, yapay zekâ sistemleri, otomasyon, yazılım ve dijital dönüşüm sistemleri kurar."
+  },
+  "language": {
+    "label": "Dil",
+    "aria": "Dili değiştir"
+  },
+  "nav": {
+    "services": "Hizmetler",
+    "industries": "Sektörler",
+    "aiSystems": "Yapay Zekâ Sistemleri",
+    "process": "Süreç",
+    "contact": "İletişim",
+    "start": "Dönüşümü Başlat",
+    "insights": "İçgörüler",
+    "toggle": "Gezinme menüsünü aç veya kapat",
+    "home": "Tiktalink ana sayfası",
+    "skip": "Ana içeriğe geç"
+  },
+  "hero": {
+    "badge": "Yapay Zekâ Çağı İçin İşletme Altyapısı",
+    "headlineBefore": "Modern işletmeler için",
+    "headlineHighlight": "dijital evrim katmanı",
+    "headlineAfter": "",
+    "subheadline": "Tiktalink, tekil web sayfaları değil; işletmenin tamamını taşıyan dijital sistemler kurar. Web sitesi, Google görünürlüğü, SEO altyapısı, otomasyon, yazılım ve yapay zekâ sistemlerini bir araya getirerek işletmeleri eski dijital varlıktan geleceğe hazır altyapıya taşır.",
+    "primaryCta": "Dijital Evrimini Başlat",
+    "secondaryCta": "Altyapıyı Keşfet",
+    "labels": [
+      "Web",
+      "SEO",
+      "Google",
+      "Yapay Zekâ",
+      "Otomasyon",
+      "Yazılım"
+    ],
+    "visual": {
+      "tag": "Yapay zekâya hazır katman",
+      "mobileWater": "Su",
+      "mobileLand": "Kara",
+      "mobileAi": "AI",
+      "nodes": [
+        {
+          "label": "Köken",
+          "meta": "su"
+        },
+        {
+          "label": "Temel",
+          "meta": "kara"
+        },
+        {
+          "label": "Ağ",
+          "meta": "bağlantı"
+        },
+        {
+          "label": "Altyapı",
+          "meta": "teknoloji"
+        },
+        {
+          "label": "Zekâ",
+          "meta": "AI"
+        }
+      ]
+    }
+  },
+  "evolution": {
+    "badge": "Marka Felsefesi",
+    "title": "Evrimden Zekâya",
+    "paragraph1": "Her büyük sıçrama bir geçişle başlar. Tiktalink, iki dünya arasındaki evrimsel köprü fikrinden ilham alır: eski çevre ve bir sonraki yaşam alanı.",
+    "paragraph2": "Bugün işletmeler de aynı geçişi yaşıyor. Çevrimdışından çevrimiçine. Manuel süreçlerden otomasyona. Aramadan yapay zekâya. Görünürlükten zekâya."
+  },
+  "services": {
+    "badge": "Hizmet Değil, Sistem",
+    "title": "Modern İşletmeler İçin Eksiksiz Dijital Sistemler",
+    "description": "Her katman; güveni artırmak, keşfedilebilirliği güçlendirmek, manuel işi azaltmak ve dijital varlığı bağlantılı bir işletme değerine dönüştürmek için tasarlanır.",
+    "items": [
+      {
+        "title": "Web Sitesi Altyapısı",
+        "description": "Güven, hız, arama görünürlüğü ve ölçülebilir dönüşüm için tasarlanmış yüksek performanslı dijital temel."
+      },
+      {
+        "title": "SEO ve Google Görünürlüğü",
+        "description": "Müşterilerin sizi doğru anda bulması için teknik SEO, yerel arama, Google Business optimizasyonu ve görünürlük sistemleri."
+      },
+      {
+        "title": "Yapay Zekâ İşletme Sistemleri",
+        "description": "Ekibinizin kapasitesini artıran yapay zekâ asistanları, bilgi tabanları, iş akışı zekâsı ve müşteri destek sistemleri."
+      },
+      {
+        "title": "Sosyal Medya Altyapısı",
+        "description": "Profesyonel profil mimarisi, içerik sistemleri, marka tutarlılığı ve sosyal kanallarda güven veren bir varlık."
+      },
+      {
+        "title": "Özel Yazılım",
+        "description": "İşletmenizin gerçek çalışma düzenine uyum sağlayan paneller, rezervasyon araçları, iç platformlar ve yazılımlar."
+      },
+      {
+        "title": "Otomasyon ve İş Akışı",
+        "description": "Formları, potansiyel müşterileri, görevleri, e-postayı, CRM aksiyonlarını ve müşteri yolculuklarını birbirine bağlayan akışlar."
+      },
+      {
+        "title": "Dijital Kataloglar",
+        "description": "Üreticiler, klinikler, ihracatçılar, hizmet şirketleri ve B2B ekipler için modern ürün ve hizmet katalogları."
+      },
+      {
+        "title": "Analitik ve Büyüme Sistemleri",
+        "description": "Sürekli gelişim için takip, performans ölçümü, dönüşüm içgörüsü ve karar sistemleri."
+      }
+    ]
+  },
+  "infrastructure": {
+    "badge": "Eksiksiz Dijital Altyapı",
+    "title": "Modern bir işletmenin ihtiyaç duyduğu görünen ve görünmeyen tüm katmanlar.",
+    "description": "Modern bir işletme Google’da keşfedilir, web sitesiyle değerlendirilir, form ve mesajlarla iletişime geçilir, iş akışlarıyla yönetilir ve giderek yapay zekâ tarafından anlaşılır.",
+    "pillars": [
+      "Güven mimarisi",
+      "Arama görünürlüğü",
+      "Müşteri yolculukları",
+      "Operasyonel otomasyon",
+      "Yapay zekâya hazır bilgi",
+      "Büyüme ölçümü"
+    ]
+  },
+  "why": {
+    "badge": "Neden Tiktalink",
+    "title": "Modern bir işletmenin bağlayıcı dijital dokusunu kuruyoruz.",
+    "description": "Tiktalink, tek bir web sitesi veya kampanyanın ötesine bakar. Görünürlük, güven, müşteri kazanımı, otomasyon ve yapay zekâ hazırlığının arkasındaki sistemi tasarlar.",
+    "items": [
+      {
+        "title": "Sistemin tamamını görürüz",
+        "description": "Bir işletmenin kopuk bir sayfaya daha değil; web, Google, SEO, yapay zekâ, otomasyon ve yazılımın tek bir operasyon katmanı gibi çalışmasına ihtiyacı vardır."
+      },
+      {
+        "title": "Gerçek işletme dinamiklerine göre kurarız",
+        "description": "Klinikler, ihracatçılar, restoranlar, üreticiler, hukuk büroları ve B2B şirketler farklı yolculuklara sahiptir. Altyapı sektöre göre şekillenir."
+      },
+      {
+        "title": "Yapay zekâ ile keşfedilmeye hazırlarız",
+        "description": "Arama, içerik, destek, yönlendirme ve bilgi sistemleri değişiyor. Tiktalink işletmeleri internetin bir sonraki arayüzüne hazırlar."
+      },
+      {
+        "title": "Uzun vadeli altyapı kurarız",
+        "description": "Hedef geçici bir kampanya değil; görünürlük, otomasyon, zekâ ve büyüme ile genişleyebilen dayanıklı bir dijital temeldir."
+      }
+    ]
+  },
+  "ai": {
+    "badge": "Yapay Zekâ İşletme Katmanı",
+    "titleBefore": "Yapay zekâ",
+    "titleAfter": "yeni işletme katmanına dönüşüyor",
+    "description": "İşletmelerin yalnızca çevrimiçi duran sayfalardan fazlasına ihtiyacı var. Cevap verebilen, yönlendirebilen, iş akışı kurabilen ve müşteri yolculuğunu iyileştirebilen yapılandırılmış bilgi sistemlerine ihtiyaç var.",
+    "items": [
+      {
+        "title": "Yapay Zekâ Müşteri Asistanları",
+        "description": "Sık sorulan soruları yanıtlayan, niyeti anlayan ve ekip devreye girmeden önce müşteriyi destekleyen asistanlar."
+      },
+      {
+        "title": "Yapay Zekâ Arama Hazırlığı",
+        "description": "Klasik aramadan yapay zekâ destekli keşfe geçiş için yapılandırılmış içerik ve bilgi mimarisi."
+      },
+      {
+        "title": "Yapay Zekâ İçerik Sistemleri",
+        "description": "Sayfalar, hizmetler, kataloglar ve yerel görünürlük için tutarlı, yeniden kullanılabilir içerik temelleri."
+      },
+      {
+        "title": "Akıllı Lead Yönlendirme",
+        "description": "Talepleri, formları, mesajları ve fırsatları bağlama, aciliyet ve potansiyele göre yönlendiren sistemler."
+      },
+      {
+        "title": "Yapay Zekâ İş Akışı Otomasyonu",
+        "description": "Müşteri kabulünden iç takibe kadar tekrar eden adımlar için pratik otomasyon."
+      },
+      {
+        "title": "Yapay Zekâ Bilgi Tabanları",
+        "description": "Ekiplerin, müşterilerin ve yapay zekâ sistemlerinin güvenilir yanıtlara daha hızlı ulaşması için düzenlenmiş işletme bilgisi."
+      }
+    ]
+  },
+  "industries": {
+    "badge": "Sektörler",
+    "title": "Her sektör için tasarlanır",
+    "description": "Tiktalink, dijital sistemleri randevulu kliniklerden B2B üreticilere, ihracatçılara, yerel işletmelere ve küresel şirketlere kadar her sektörün gerçekliğine göre uyarlar.",
+    "items": [
+      "Diş klinikleri",
+      "Medikal klinikler",
+      "Doktorlar",
+      "Avukatlar",
+      "Eczaneler",
+      "Güzellik merkezleri",
+      "Restoranlar",
+      "Gayrimenkul",
+      "Oto galerileri",
+      "Oteller",
+      "Fabrikalar",
+      "Üreticiler",
+      "İhracatçılar",
+      "Yerel işletmeler",
+      "B2B şirketler",
+      "Startuplar",
+      "Profesyonel hizmetler"
+    ]
+  },
+  "process": {
+    "badge": "Süreç",
+    "title": "Bir işletmeyi nasıl dönüştürürüz",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Teşhis",
+        "label": "Su",
+        "description": "Web sitenizi, arama görünürlüğünüzü, müşteri yolculuğunuzu, veri akışınızı ve operasyonel boşlukları haritalandırırız."
+      },
+      {
+        "step": "02",
+        "title": "Tasarım",
+        "label": "Kara",
+        "description": "İşletmenizin daha net, daha güvenilir ve daha kolay yönetilebilir hale gelmesi için gereken altyapıyı tanımlarız."
+      },
+      {
+        "step": "03",
+        "title": "Kurulum",
+        "label": "Bağlantı",
+        "description": "Web sitesi, SEO sistemi, yapay zekâ araçları, otomasyonlar, kataloglar ve işletmeyi birbirine bağlayan yazılım katmanlarını kurarız."
+      },
+      {
+        "step": "04",
+        "title": "Yayın",
+        "label": "Teknoloji",
+        "description": "Sistemi yayına alır, bağlar, test eder, ölçer ve gerçek müşterilere ve operasyonlara hazırlarız."
+      },
+      {
+        "step": "05",
+        "title": "Evrim",
+        "label": "AI",
+        "description": "Pazar değiştikçe görünürlüğü, otomasyonu, yapay zekâ hazırlığını ve işletme performansını geliştirmeye devam ederiz."
+      }
+    ]
+  },
+  "systems": {
+    "badge": "Operasyon Katmanı",
+    "title": "Sadece web sitesi değil. Bir işletme operasyon katmanı.",
+    "description": "Tiktalink; kamusal varlığı, müşteri kazanımını, operasyon araçlarını ve zekâyı tek bir tutarlı dijital sistemde birleştirir.",
+    "cardDescription": "Ayrı bir görev gibi değil, daha geniş dönüşüm katmanına bağlı şekilde çalışır.",
+    "items": [
+      "Web sitesi",
+      "Google",
+      "SEO",
+      "Sosyal",
+      "AI",
+      "Otomasyon",
+      "Yazılım",
+      "Analitik"
+    ]
+  },
+  "cta": {
+    "title": "Dijital evrim sisteminizi kurmaya hazır mısınız?",
+    "description": "Klinik, yerel işletme, profesyonel hizmet, üretici, ihracatçı veya küresel şirket olun; Tiktalink işletmenizi yalnızca var olmaktan performans üretmeye taşıyan altyapıyı kurar.",
+    "primary": "Dijital Evrimini Başlat",
+    "secondary": "Tiktalink ile İletişime Geç"
+  },
+  "footer": {
+    "description": "Eski dijital varlıktan bağlantılı, yapay zekâya hazır altyapıya geçmek isteyen işletmeler için Dijital Evrim Sistemleri.",
+    "services": "Hizmetler",
+    "company": "Şirket",
+    "social": "Sosyal",
+    "copyright": "© 2026 Tiktalink TechAl. Tüm hakları saklıdır.",
+    "taglineA": "Dijital Evrim",
+    "taglineB": "Sistemleri",
+    "companyLinks": [
+      "Dijital Evrim",
+      "Süreç",
+      "İçgörüler",
+      "İletişim"
+    ],
+    "legalLinks": [
+      "Gizlilik Politikası",
+      "Kullanım Şartları",
+      "Çerez Politikası"
+    ],
+    "legal": "Yasal",
+    "socialAria": "Tiktalink TechAl profilini aç:"
+  },
+  "scenarios": {
+    "badge": "Dönüşüm Senaryoları",
+    "title": "Gerçek iş ihtiyaçları için örnek sistem modelleri.",
+    "description": "Bunlar uydurulmuş vaka çalışmaları değil, dürüst örnek dönüşüm modelleridir. Tiktalink altyapısının farklı sektörlere nasıl uyarlanabileceğini gösterir.",
+    "items": [
+      {
+        "title": "Diş Kliniği Dönüşümü",
+        "label": "Örnek dönüşüm modeli",
+        "points": [
+          "Modern web sitesi",
+          "Google görünürlüğü",
+          "Randevu akışı",
+          "Yapay zekâ asistanı",
+          "Hasta güven sistemi"
+        ]
+      },
+      {
+        "title": "Restoran Dijital Sistemi",
+        "label": "Konsept sistem",
+        "points": [
+          "Menü web sitesi",
+          "Google Maps optimizasyonu",
+          "Rezervasyon akışı",
+          "Yorum stratejisi",
+          "Sosyal içerik yapısı"
+        ]
+      },
+      {
+        "title": "Hukuk Bürosu Otorite Sistemi",
+        "label": "Örnek dönüşüm modeli",
+        "points": [
+          "Profesyonel web sitesi",
+          "SEO sayfaları",
+          "Danışma formu",
+          "Güven odaklı içerik",
+          "Yerel arama varlığı"
+        ]
+      },
+      {
+        "title": "Fabrika / Üretici B2B Sistemi",
+        "label": "Konsept sistem",
+        "points": [
+          "Dijital katalog",
+          "Çok dilli ürün sayfaları",
+          "Lead toplama",
+          "İhracatçı görünürlüğü",
+          "Gelecekte Rootfablink bağlantısı"
+        ]
+      }
+    ]
+  },
+  "insights": {
+    "badge": "İçgörüler",
+    "title": "İş dünyasının yeni interneti için düşünceler.",
+    "description": "Dijital altyapı, yapay zekâ hazırlığı, SEO, otomasyon ve modern işletme sistemleri üzerine büyüyen bilgi alanı.",
+    "viewAll": "Tüm içgörüleri gör",
+    "readArticle": "Yazıyı oku",
+    "items": [
+      {
+        "title": "Her İşletme Neden Yapay Zekâya Hazır Bir Web Sitesine İhtiyaç Duyar?",
+        "category": "Yapay Zekâ Hazırlığı",
+        "excerpt": "Modern bir web sitesi arama, güven, otomasyon ve yeni nesil AI keşfi için yapılandırılmalıdır.",
+        "readingTime": "4 dk okuma"
+      },
+      {
+        "title": "Web Sitesi ile Dijital Altyapı Arasındaki Fark",
+        "category": "Dijital Altyapı",
+        "excerpt": "Web sitesi görünen yüzdür. Dijital altyapı görünürlük, dönüşüm, operasyon, veri ve zekâyı birbirine bağlar.",
+        "readingTime": "5 dk okuma"
+      },
+      {
+        "title": "Yerel SEO Kliniklere, Restoranlara ve Hizmet İşletmelerine Nasıl Büyüme Sağlar?",
+        "category": "Google Görünürlüğü",
+        "excerpt": "Yerel keşif; teknik temel, Google Business kalitesi, güven sinyalleri ve dönüşüm yollarına bağlıdır.",
+        "readingTime": "4 dk okuma"
+      },
+      {
+        "title": "Manuel Operasyonlardan Akıllı İşletme Sistemlerine",
+        "category": "Otomasyon",
+        "excerpt": "Bağlantılı iş akışları tekrar eden işleri azaltır ve işletmeyi pratik yapay zekâ destekli operasyona hazırlar.",
+        "readingTime": "5 dk okuma"
+      }
+    ],
+    "pageTitle": "Tiktalink İçgörüleri"
+  },
+  "contact": {
+    "badge": "İletişim",
+    "title": "İşletmenizin neye dönüşmesi gerektiğini anlatın.",
+    "description": "Mevcut durumunuzu ve kurmak istediğiniz sistemleri paylaşın. Form, sahte bir arka uç oluşturmadan hazırlanmış bir e-posta açar.",
+    "socialTitle": "Tiktalink TechAl ile bağlantı kurun",
+    "form": {
+      "name": "Ad Soyad",
+      "email": "İş e-postası",
+      "company": "Şirket / işletme adı",
+      "website": "Web sitesi URL’si (isteğe bağlı)",
+      "industry": "Sektör",
+      "need": "Neye ihtiyacınız var?",
+      "message": "Mesaj",
+      "submit": "E-posta talebini hazırla",
+      "error": "Lütfen form bilgilerini kontrol edip tekrar deneyin.",
+      "projectTypes": [
+        "Web sitesi",
+        "SEO / Google Görünürlüğü",
+        "Yapay Zekâ Sistemleri",
+        "Otomasyon",
+        "Özel Yazılım",
+        "Dijital Katalog",
+        "Tam Dijital Dönüşüm"
+      ]
+    },
+    "socialAria": "Tiktalink TechAl profilini aç:"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Gizlilik Politikası",
+      "intro": "Bu gizlilik politikası, Tiktalink’in bu web sitesi üzerinden iletilen bilgileri nasıl toplayabileceğini, kullanabileceğini ve koruyabileceğini açıklar.",
+      "sections": [
+        {
+          "title": "Toplayabileceğimiz bilgiler",
+          "body": "İletişim bilgileri, işletme bilgileri, web sitesi adresleri, proje ihtiyaçları ve form ya da e-posta bağlantılarıyla gönderilen mesajlar alınabilir."
+        },
+        {
+          "title": "Analitik ve çerezler",
+          "body": "Web sitesi performansını anlamak, kullanıcı deneyimini iyileştirmek ve görünürlüğü ölçmek için ileride analitik araçları, çerezler ve üçüncü taraf servisleri eklenebilir."
+        },
+        {
+          "title": "Üçüncü taraf servisleri",
+          "body": "Web sitesi sosyal platformlara, e-posta servislerine, barındırma sağlayıcılarına, analitik sağlayıcılarına ve profesyonel araçlara bağlantı verebilir."
+        },
+        {
+          "title": "Haklarınız",
+          "body": "Web sitesi üzerinden gönderdiğiniz veriler hakkında bilgi talep etmek için techal@tiktalink.com adresinden Tiktalink ile iletişime geçebilirsiniz."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Kullanım Şartları",
+      "intro": "Bu şartlar, Tiktalink web sitesinin kullanımı ve hizmet taleplerinin iletilmesi için genel koşulları açıklar.",
+      "sections": [
+        {
+          "title": "Web sitesi kullanımı",
+          "body": "Bu web sitesi bilgilendirme amacıyla ve işletmelerin dijital dönüşüm sistemleri hakkında Tiktalink ile iletişime geçebilmesi için sunulur."
+        },
+        {
+          "title": "Hizmet talepleri",
+          "body": "Talep göndermek bir hizmet sözleşmesi oluşturmaz. Proje şartları, kapsamı ve fiyatlandırma ayrıca yazılı olarak onaylanmalıdır."
+        },
+        {
+          "title": "Fikri mülkiyet",
+          "body": "Aksi belirtilmedikçe web sitesi içeriği, marka öğeleri, arayüz tasarımı ve metinler Tiktalink’e aittir."
+        },
+        {
+          "title": "Sorumluluğun sınırı",
+          "body": "Tiktalink bu web sitesini bilgilendirme amacıyla sunar; kesintisiz erişim veya belirli ticari sonuçlar garanti etmez."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Çerez Politikası",
+      "intro": "Bu çerez politikası, Tiktalink web sitesinde çerezlerin ve benzer teknolojilerin nasıl kullanılabileceğini açıklar.",
+      "sections": [
+        {
+          "title": "Zorunlu çerezler",
+          "body": "Dil tercihi, yönlendirme, güvenlik ve temel site işlevleri için zorunlu çerezler kullanılabilir."
+        },
+        {
+          "title": "Analitik çerezleri",
+          "body": "Trafiği, performansı ve kullanıcı etkileşimlerini anlamak için ileride analitik çerezleri eklenebilir."
+        },
+        {
+          "title": "Pazarlama çerezleri",
+          "body": "Pazarlama veya yeniden pazarlama araçları ileride yalnızca uygun izin ve yapılandırma olduğunda eklenebilir."
+        },
+        {
+          "title": "Onay",
+          "body": "Analitik veya pazarlama çerezleri etkinleştirilirse ileride bir onay yönetim sistemi uygulanabilir."
+        }
+      ]
+    },
+    "disclaimer": "Bu sayfa genel bilgilendirme amaçlı bir şablon olarak sunulmuştur ve üretim kullanımı öncesinde nitelikli bir hukuk uzmanı tarafından incelenmelidir."
+  },
+  "principles": {
+    "badge": "Altyapı İlkeleri",
+    "title": "Kampanya gibi değil, dijital altyapı gibi inşa edilir.",
+    "description": "Tiktalink; güvenli yayın, arama netliği, yapay zekâ okunabilirliği, küresel ölçek, performans ve gerçek işleyişe saygı duyan otomasyon üzerine tasarlanır.",
+    "items": [
+      {
+        "title": "Güvenli temel",
+        "description": "Büyüme risk yaratmadan önce güvenlik başlıkları, doğrulama kalıpları ve dağıtım rehberliği hazırlanır."
+      },
+      {
+        "title": "Aramaya hazır mimari",
+        "description": "Site haritaları, metadata, yapılandırılmış veri ve temiz rotalar uzun vadeli organik görünürlük için kurulur."
+      },
+      {
+        "title": "Yapay zekâ tarafından okunabilir yapı",
+        "description": "Net şirket bilgileri, llms.txt, semantik içerik ve AI arama ortamları için varlık sinyalleri oluşturulur."
+      },
+      {
+        "title": "Küresel ölçeklenebilirlik",
+        "description": "Yerelleştirilmiş rotalar, hreflang temeli, RTL desteği ve uluslararası içerik mimarisi hazırdır."
+      },
+      {
+        "title": "Performans odaklı deneyim",
+        "description": "Statik üretim, hafif görseller, ölçülü animasyon ve temiz bileşen sınırları kullanılır."
+      },
+      {
+        "title": "İnsan merkezli otomasyon",
+        "description": "Otomasyon; gerçek iş akışları, müşteri açıklığı ve operasyonel güven etrafında planlanır."
+      }
+    ]
+  },
+  "engine": {
+    "metaTitle": "Dijital Evrim Motoru | Tiktalink",
+    "metaDescription": "Web sitesi kalitesi, SEO görünürlüğü, Google hazırlığı, yapay zekâ hazırlığı, otomasyon, güven ve dijital altyapı olgunluğunu değerlendirmek için geleceğe dönük Tiktalink denetim konsepti.",
+    "badge": "Geleceğin Lead Zekâsı",
+    "title": "Dijital Evrim Motoru",
+    "description": "Bir işletmenin web, arama, Google görünürlüğü, yapay zekâ, otomasyon, güven, dönüşüm ve altyapı açısından ne kadar hazır olduğunu anlamaya yönelik gelecekteki Tiktalink denetim katmanı.",
+    "primary": "Dijital Evrim Denetimi Talep Et",
+    "secondary": "Tiktalink ile İletişime Geç",
+    "cardDescription": "Bu bir otomatik skor iddiası değil, denetim boyutu olarak tasarlanmış bir yapıdır. Sistem ciddi işletmeler için pratik bir inceleme iş akışına dönüşecektir.",
+    "dimensions": [
+      "Web sitesi kalitesi",
+      "SEO görünürlüğü",
+      "Google Business hazırlığı",
+      "Yapay zekâ hazırlığı",
+      "Otomasyon olgunluğu",
+      "Sosyal güven",
+      "Dönüşüm sistemi",
+      "Dijital altyapı skoru"
+    ]
+  },
+  "industryPage": {
+    "badge": "Sektör Sistemi",
+    "experienceBadge": "Örnek sektör deneyimi",
+    "experienceTitle": "Tiktalink’in kurabileceği web sistemi ön izlemesi.",
+    "experienceDescription": "Bu bölüm gerçek müşteri vakası değil, sektöre özel bir dönüşüm modelidir. Web sitesi, arama, AI, mobil deneyim, güven ve dönüşüm katmanlarının bu sektör için nasıl birlikte çalışabileceğini gösterir.",
+    "modulesTitle": "Sektöre özel web modülleri",
+    "beforeTitle": "Tiktalink öncesi",
+    "afterTitle": "Tiktalink sonrası",
+    "aiSimulationTitle": "AI asistan simülasyonu",
+    "mobilePreviewTitle": "Mobil deneyim ön izlemesi",
+    "conversionPreviewTitle": "Dönüşüm yolculuğu ön izlemesi",
+    "aiQuestion": "Bu web sitesi ziyaretçiyi doğru sonraki adıma yönlendirebilir mi?",
+    "aiAnswer": "Asistan niyeti netleştirir, doğru sayfayı veya aksiyonu önerir ve talebi takip için hazırlar.",
+    "mobileItems": [
+      "Hızlı iletişim",
+      "Mobil talep formu",
+      "Harita veya yönlendirme",
+      "AI asistan",
+      "Takip akışı"
+    ],
+    "secondaryCta": "Hizmetleri keşfet",
+    "focusTitle": "Dijital evrim odağı",
+    "gapsTitle": "Yaygın dijital boşluklar",
+    "responseTitle": "Tiktalink sistem yanıtı",
+    "overviewTitle": "Sektör gerçekliği",
+    "websiteTitle": "Örnek web sitesi mimarisi",
+    "systemsTitle": "Dijital sistem katmanı",
+    "seoTitle": "SEO ve Google görünürlük planı",
+    "aiTitle": "AI ve otomasyon planı",
+    "trustTitle": "Güven ve dönüşüm sistemi",
+    "journeyTitle": "Dijital yolculuk görselleştirmesi",
+    "relatedTitle": "İlgili sektör planları",
+    "buildCta": "Bu sistemi işletmeniz için kurun",
+    "backToIndustries": "Sektörlere dön",
+    "metaSuffix": "Tiktalink",
+    "headlineTemplate": "{industry} için dijital dönüşüm altyapısı.",
+    "metaDescriptionTemplate": "Tiktalink, {industry} için web, SEO, Google görünürlüğü, yapay zekâ, otomasyon ve dijital altyapı sistemleri kurar.",
+    "ctaTemplate": "{industry} için dijital denetim talep et",
+    "painPoints": [
+      "Zayıf dijital görünürlük",
+      "Kopuk müşteri yolculukları",
+      "Manuel operasyon ve takip yükü"
+    ],
+    "solutions": [
+      "Aramaya hazır web sitesi mimarisi",
+      "Bağlantılı talep ve lead akışları",
+      "Yapay zekâya hazır bilgi ve otomasyon temeli"
+    ],
+    "services": [
+      "Web Sitesi Altyapısı",
+      "SEO ve Google Görünürlüğü",
+      "Yapay Zekâ İşletme Sistemleri",
+      "Otomasyon ve İş Akışı"
+    ],
+    "fallbackCard": "Görünürlük, güven, otomasyon ve büyüme için sektöre özel dijital altyapı modeli."
+  }
+}

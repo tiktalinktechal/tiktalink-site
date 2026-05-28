@@ -8,6 +8,7 @@ type InstagramConfig = {
   userId: string;
   username: string;
   graphVersion: string;
+  graphBaseUrl: string;
 };
 
 export type InstagramAccount = {
@@ -58,18 +59,20 @@ function getInstagramConfig(): InstagramConfig {
   const userId = process.env.INSTAGRAM_USER_ID;
   const username = process.env.INSTAGRAM_USERNAME ?? "";
   const graphVersion = process.env.META_GRAPH_API_VERSION ?? "v24.0";
+  const graphBaseUrl = process.env.META_GRAPH_API_BASE_URL ?? "https://graph.instagram.com";
 
   if (!accessToken || !userId) {
     throw Object.assign(new Error("instagram_not_configured"), { status: 503 });
   }
 
-  return { accessToken, userId, username, graphVersion };
+  return { accessToken, userId, username, graphVersion, graphBaseUrl };
 }
 
 function createGraphConfig(config: InstagramConfig) {
   return {
     accessToken: config.accessToken,
     graphVersion: config.graphVersion,
+    baseUrl: config.graphBaseUrl,
     timeoutMs: Number(process.env.INSTAGRAM_API_TIMEOUT_MS ?? 25000),
   };
 }
@@ -193,7 +196,7 @@ export function verifyInstagramAdmin(request: Request) {
 export async function getInstagramAccount(): Promise<InstagramAccountStatus> {
   const config = getInstagramConfig();
   const account = await metaGraphRequest<InstagramAccount>(
-    config.userId,
+    "me",
     createGraphConfig(config),
     {
       params: new URLSearchParams({
@@ -206,7 +209,7 @@ export async function getInstagramAccount(): Promise<InstagramAccountStatus> {
     account,
     expectedUsername: config.username,
     tokenStatus: "validated_by_profile_request",
-    connected: account.id === config.userId,
+    connected: Boolean(account.id),
   };
 }
 
@@ -216,7 +219,7 @@ export async function publishInstagramImage(input: InstagramPublishInput): Promi
   const steps: PublishLifecycleStep[] = [];
 
   const media = await metaGraphRequest<{ id: string }>(
-    `${config.userId}/media`,
+    `${config.userId || "me"}/media`,
     createGraphConfig(config),
     {
       method: "POST",
@@ -231,7 +234,7 @@ export async function publishInstagramImage(input: InstagramPublishInput): Promi
   await waitForMediaContainerReady(media.id, config, steps);
 
   const published = await metaGraphRequest<{ id: string }>(
-    `${config.userId}/media_publish`,
+    `${config.userId || "me"}/media_publish`,
     createGraphConfig(config),
     {
       method: "POST",

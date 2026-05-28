@@ -42,6 +42,7 @@ export class MetaGraphTimeoutError extends Error {
 export type MetaGraphClientConfig = {
   accessToken: string;
   graphVersion: string;
+  baseUrl?: string;
   timeoutMs?: number;
 };
 
@@ -56,8 +57,9 @@ function sanitizeGraphError(payload: unknown, fallback: string): MetaGraphErrorD
   };
 }
 
-function graphUrl(path: string, graphVersion: string) {
-  return `https://graph.facebook.com/${graphVersion}/${path.replace(/^\//, "")}`;
+function graphUrl(path: string, config: MetaGraphClientConfig) {
+  const baseUrl = config.baseUrl ?? "https://graph.facebook.com";
+  return `${baseUrl.replace(/\/$/, "")}/${config.graphVersion}/${path.replace(/^\//, "")}`;
 }
 
 async function parseJson(response: Response) {
@@ -83,8 +85,8 @@ export async function metaGraphRequest<T>(
   try {
     const response = await fetch(
       method === "GET"
-        ? `${graphUrl(path, config.graphVersion)}?${params.toString()}`
-        : graphUrl(path, config.graphVersion),
+        ? `${graphUrl(path, config)}?${params.toString()}`
+        : graphUrl(path, config),
       {
         method,
         body: method === "POST" ? params : undefined,

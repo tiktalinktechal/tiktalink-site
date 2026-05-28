@@ -26,71 +26,6 @@ type GraphErrorPayload = {
   };
 };
 
-const posts: InstagramPost[] = [
-  {
-    id: 1,
-    topic: "Who is TiktaLink TechAI?",
-    imageUrl: "https://tiktalink.com/instagram/tiktalink-intro.jpg",
-    caption: `TiktaLink TechAI is building the next generation of digital business infrastructure.
-
-From modern websites and SEO systems to AI-powered automation and scalable digital ecosystems, we help businesses evolve beyond traditional online presence.
-
-Modern companies no longer need only websites.
-They need intelligent systems, visibility, automation, analytics and scalable digital architecture.
-
-That is why TiktaLink TechAI exists.
-
-#TiktaLink #TiktaLinkTechAI #DigitalTransformation #AIForBusiness #BusinessAutomation #FutureOfBusiness #WebDevelopment #SEO #ArtificialIntelligence #DigitalInfrastructure`,
-  },
-  {
-    id: 2,
-    topic: "Core Services",
-    imageUrl: "https://tiktalink.com/instagram/tiktalink-services.jpg",
-    caption: `TiktaLink TechAI provides modern digital infrastructure solutions for growing businesses.
-
-Our ecosystem includes:
-
-• Website Development
-• SEO & Google Visibility
-• AI Automation Systems
-• CRM Integrations
-• Social Media API Infrastructure
-• Business Dashboards
-• Lead Collection Systems
-• Multi-language Digital Platforms
-• Automation Workflows
-• AI-Powered Content Systems
-
-We build scalable systems designed for the future of digital business.
-
-#TiktaLink #Automation #BusinessSystems #AIInfrastructure #DigitalSolutions #CRM #SEO #WebSystems #TechCompany #StartupTechnology`,
-  },
-  {
-    id: 3,
-    topic: "Industries We Support",
-    imageUrl: "https://tiktalink.com/instagram/tiktalink-industries.jpg",
-    caption: `TiktaLink TechAI helps businesses across multiple industries build modern digital ecosystems.
-
-Industries we support include:
-
-• Healthcare & Clinics
-• Restaurants & Cafés
-• E-commerce Brands
-• Beauty & Wellness Centers
-• Real Estate Agencies
-• Logistics & Export Companies
-• Education Platforms
-• Local Businesses
-• B2B Companies
-• Consulting Firms
-
-Every industry is entering a new digital era.
-We help businesses adapt, scale and automate.
-
-#TiktaLink #BusinessGrowth #DigitalBusiness #AITransformation #FutureTechnology #BusinessAutomation #ModernBusiness #TechSolutions #DigitalEra #Innovation`,
-  },
-];
-
 function loadEnvFile(filePath: string) {
   if (!fs.existsSync(filePath)) return;
   const content = fs.readFileSync(filePath, "utf8");
@@ -114,12 +49,112 @@ function requireEnv(key: string) {
   return value;
 }
 
+function imageUrl(filename: string) {
+  const baseUrl = process.env.INSTAGRAM_PUBLIC_IMAGE_BASE_URL || "https://tiktalink.com/instagram";
+  return `${baseUrl.replace(/\/$/, "")}/${filename}`;
+}
+
+function getPosts(): InstagramPost[] {
+  return [
+    {
+      id: 1,
+      topic: "The Beginning of TiktaLink TechAI",
+      imageUrl: imageUrl("tiktalink-vision.jpg"),
+      caption: `The future of business is no longer built on simple websites.
+
+It is built on intelligent infrastructure, automation systems, scalable digital ecosystems and AI-powered workflows.
+
+TiktaLink TechAI was created to help businesses transition into this new era.
+
+From visibility and SEO to automation and enterprise digital systems, we build the infrastructure behind modern digital growth.
+
+This is only the beginning.
+
+#TiktaLink #TiktaLinkTechAI #DigitalInfrastructure #AIForBusiness #FutureTechnology #BusinessAutomation #ArtificialIntelligence #SaaS #DigitalTransformation #TechInnovation`,
+    },
+    {
+      id: 2,
+      topic: "What TiktaLink TechAI Builds",
+      imageUrl: imageUrl("tiktalink-ecosystem.jpg"),
+      caption: `TiktaLink TechAI develops scalable digital ecosystems for modern businesses.
+
+Our infrastructure includes:
+
+- AI Automation Systems
+- Advanced Website Platforms
+- SEO Infrastructure
+- CRM Integrations
+- Lead Collection Systems
+- Social Media Automation
+- Multi-Platform API Integrations
+- Analytics Dashboards
+- Business Workflow Automation
+- AI-Powered Content Systems
+
+Modern companies need more than online presence.
+
+They need intelligent systems.
+
+#TiktaLink #AutomationSystems #BusinessTechnology #DigitalEcosystem #AIInfrastructure #EnterpriseSoftware #FutureBusiness #TechCompany #SaaSPlatform #Innovation`,
+    },
+    {
+      id: 3,
+      topic: "Industries Entering the AI Era",
+      imageUrl: imageUrl("tiktalink-industries.jpg"),
+      caption: `Every industry is entering a new technological era.
+
+Healthcare.
+Logistics.
+Restaurants.
+E-commerce.
+Education.
+Consulting.
+Real estate.
+Global trade.
+
+The companies that adapt fastest will lead the future.
+
+TiktaLink TechAI helps businesses build intelligent digital ecosystems designed for scalable growth.
+
+The AI era has already started.
+
+#TiktaLink #AITransformation #DigitalEconomy #BusinessGrowth #FutureOfBusiness #SmartInfrastructure #Automation #TechSolutions #Innovation #ArtificialIntelligence`,
+    },
+    {
+      id: 4,
+      topic: "The Future Is Automated",
+      imageUrl: imageUrl("tiktalink-future.jpg"),
+      caption: `The next generation of companies will not operate manually.
+
+They will operate through intelligent systems.
+
+AI-driven workflows.
+Automation infrastructure.
+Real-time analytics.
+Scalable digital ecosystems.
+Connected business intelligence.
+
+TiktaLink TechAI is building the infrastructure behind that future.
+
+This is not social media automation.
+
+This is the beginning of intelligent digital business architecture.
+
+#TiktaLink #FutureTechnology #AIInfrastructure #DigitalFuture #AutomationEra #BusinessIntelligence #ArtificialIntelligence #TechEvolution #EnterpriseAI #Innovation`,
+    },
+  ];
+}
+
 function graphVersion() {
   return process.env.META_GRAPH_API_VERSION || "v24.0";
 }
 
+function graphBaseUrl() {
+  return process.env.META_GRAPH_API_BASE_URL || "https://graph.instagram.com";
+}
+
 function graphUrl(pathname: string) {
-  return `https://graph.facebook.com/${graphVersion()}/${pathname.replace(/^\//, "")}`;
+  return `${graphBaseUrl().replace(/\/$/, "")}/${graphVersion()}/${pathname.replace(/^\//, "")}`;
 }
 
 function step(status: string, id?: string, detail?: string): PublishStep {
@@ -182,9 +217,8 @@ async function validatePublicImage(url: string) {
 }
 
 async function validateAccount() {
-  const userId = requireEnv("INSTAGRAM_USER_ID");
   const account = await graphRequest(
-    userId,
+    "me",
     new URLSearchParams({
       fields: "id,username,name,profile_picture_url",
     })
@@ -224,13 +258,13 @@ async function waitForContainer(creationId: string, lifecycle: PublishStep[]) {
 }
 
 async function publishPost(post: InstagramPost) {
-  const userId = requireEnv("INSTAGRAM_USER_ID");
+  const account = await validateAccount();
   const lifecycle: PublishStep[] = [];
 
   await validatePublicImage(post.imageUrl);
 
   const media = await graphRequest(
-    `${userId}/media`,
+    `${account.id}/media`,
     new URLSearchParams({
       image_url: post.imageUrl,
       caption: post.caption,
@@ -242,7 +276,7 @@ async function publishPost(post: InstagramPost) {
   await waitForContainer(media.id, lifecycle);
 
   const published = await graphRequest(
-    `${userId}/media_publish`,
+    `${account.id}/media_publish`,
     new URLSearchParams({
       creation_id: media.id,
     }),
@@ -254,6 +288,7 @@ async function publishPost(post: InstagramPost) {
   return {
     postId: post.id,
     topic: post.topic,
+    imageUrl: post.imageUrl,
     containerId: media.id,
     mediaId: published.id,
     lifecycle,
@@ -266,6 +301,7 @@ async function main() {
   const selectedArg = process.argv.find((arg) => arg.startsWith("--post="));
   const publishAll = process.argv.includes("--all");
   const selectedPostId = selectedArg ? Number(selectedArg.split("=")[1]) : 1;
+  const posts = getPosts();
   const selectedPosts = publishAll ? posts : posts.filter((post) => post.id === selectedPostId);
 
   if (selectedPosts.length === 0) throw new Error("selected_post_not_found");

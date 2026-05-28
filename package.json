@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "publish:instagram:test": "node scripts/publish-instagram-test-posts.ts"
   },
   "dependencies": {
     "framer-motion": "^12.40.0",

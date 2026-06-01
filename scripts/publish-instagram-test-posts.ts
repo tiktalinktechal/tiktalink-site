@@ -142,6 +142,51 @@ This is the beginning of intelligent digital business architecture.
 
 #TiktaLink #FutureTechnology #AIInfrastructure #DigitalFuture #AutomationEra #BusinessIntelligence #ArtificialIntelligence #TechEvolution #EnterpriseAI #Innovation`,
     },
+    {
+      id: 5,
+      topic: "AI Business Infrastructure",
+      imageUrl: imageUrl("tiktalink-ai-infrastructure.jpg"),
+      caption: `Modern businesses are entering a new infrastructure era.
+
+Websites, analytics, automation, AI systems, CRM logic and digital visibility can no longer work as disconnected tools.
+
+They need to operate as one intelligent business layer.
+
+TiktaLink TechAI builds that layer.
+
+We design digital systems that help businesses become more visible, more connected, more automated and more ready for the AI economy.
+
+#TiktaLink #TiktaLinkTechAI #AIInfrastructure #DigitalInfrastructure #BusinessAutomation #EnterpriseSoftware #AIForBusiness #DigitalTransformation #AutomationSystems #FutureBusiness`,
+    },
+    {
+      id: 6,
+      topic: "Visibility Becomes Intelligence",
+      imageUrl: imageUrl("tiktalink-visibility-intelligence.jpg"),
+      caption: `Digital visibility is no longer only about being online.
+
+It is about being discoverable, trusted, measurable and ready for intelligent search.
+
+TiktaLink TechAI helps businesses build modern visibility systems across websites, SEO, Google presence, local discovery, analytics and conversion architecture.
+
+Search is evolving.
+Business visibility must evolve with it.
+
+#TiktaLink #SEO #GoogleVisibility #DigitalVisibility #LocalSEO #AIForBusiness #SearchIntelligence #DigitalMarketing #BusinessGrowth #DigitalInfrastructure`,
+    },
+    {
+      id: 7,
+      topic: "From Manual Work to Intelligent Systems",
+      imageUrl: imageUrl("tiktalink-intelligent-operations.jpg"),
+      caption: `The next stage of business growth will not come from doing more manual work.
+
+It will come from building smarter systems.
+
+AI agents, CRM workflows, lead routing, analytics, email automation and connected digital processes can turn daily operations into scalable infrastructure.
+
+TiktaLink TechAI helps businesses move from disconnected manual tasks to intelligent operating systems.
+
+#TiktaLink #BusinessAutomation #WorkflowAutomation #AIForBusiness #IntelligentSystems #CRM #LeadGeneration #AutomationTools #EnterpriseAI #FutureOfWork`,
+    },
   ];
 }
 

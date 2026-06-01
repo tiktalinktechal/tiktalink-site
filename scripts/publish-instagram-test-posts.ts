@@ -186,6 +186,89 @@ TiktaLink TechAI helps businesses move from disconnected manual tasks to intelli
 
 #TiktaLink #BusinessAutomation #WorkflowAutomation #AIForBusiness #IntelligentSystems #CRM #LeadGeneration #AutomationTools #EnterpriseAI #FutureOfWork`,
     },
+    {
+      id: 8,
+      topic: "AI-Native Business Infrastructure",
+      imageUrl: imageUrl("tiktalink-ai-native-infrastructure.jpg"),
+      caption: `The next generation of business will be built on connected intelligence.
+
+Websites, SEO, analytics, CRM data, automation and AI systems should not operate as separate tools.
+
+They should work together as one scalable digital infrastructure layer.
+
+TiktaLink TechAI builds AI-native business systems for companies preparing for the next era of digital growth.
+
+#TiktaLink #TiktaLinkTechAI #AIInfrastructure #DigitalInfrastructure #AIForBusiness #BusinessAutomation #EnterpriseTechnology #DigitalTransformation #SaaS #FutureOfBusiness`,
+    },
+    {
+      id: 9,
+      topic: "From Presence to Intelligence",
+      imageUrl: imageUrl("tiktalink-presence-to-intelligence.jpg"),
+      caption: `A website is no longer the final destination.
+
+It is the foundation.
+
+Modern businesses need digital systems that can attract, guide, analyze, automate and convert.
+
+TiktaLink TechAI helps businesses evolve from simple online presence into intelligent digital operating layers.
+
+From visibility to intelligence.
+From manual work to connected systems.
+From today to the AI era.
+
+#TiktaLink #DigitalEvolution #BusinessInfrastructure #AITransformation #DigitalTransformation #Automation #ModernBusiness #AIForBusiness #TechCompany #FutureReady`,
+    },
+    {
+      id: 10,
+      topic: "Built for Every Industry",
+      imageUrl: imageUrl("tiktalink-every-industry.jpg"),
+      caption: `Every industry has its own digital reality.
+
+Clinics need trust and appointment systems.
+Restaurants need visibility and reservation flows.
+Manufacturers need catalogs and B2B inquiry systems.
+Startups need launch infrastructure and analytics.
+
+TiktaLink TechAI designs sector-specific digital systems around how each business actually works.
+
+One infrastructure mindset.
+Built for every industry.
+
+#TiktaLink #IndustryTechnology #DigitalInfrastructure #BusinessSystems #AIForBusiness #LocalBusiness #B2B #Startups #DigitalTransformation #Automation`,
+    },
+    {
+      id: 11,
+      topic: "Search-Ready. AI-Ready.",
+      imageUrl: imageUrl("tiktalink-search-ai-ready.jpg"),
+      caption: `Search is changing.
+
+Businesses now need more than pages that look good.
+
+They need structured content, technical SEO, clear entities, fast performance, local visibility and AI-readable digital architecture.
+
+TiktaLink TechAI builds websites and visibility systems designed for both search engines and the emerging AI discovery layer.
+
+Search-ready.
+AI-ready.
+Business-ready.
+
+#TiktaLink #SEO #AISEO #SearchIntelligence #GoogleVisibility #TechnicalSEO #DigitalVisibility #AIForBusiness #BusinessGrowth #DigitalInfrastructure`,
+    },
+    {
+      id: 12,
+      topic: "Automation That Moves Business Forward",
+      imageUrl: imageUrl("tiktalink-automation-forward.jpg"),
+      caption: `Growth becomes harder when every process depends on manual work.
+
+Modern businesses need systems that capture leads, route inquiries, update CRM data, trigger follow-ups, analyze performance and support customers intelligently.
+
+TiktaLink TechAI builds automation layers that help businesses move faster with cleaner operations and better digital control.
+
+Automation is not only efficiency.
+It is infrastructure.
+
+#TiktaLink #BusinessAutomation #WorkflowAutomation #AIForBusiness #CRM #LeadGeneration #AutomationSystems #EnterpriseAI #DigitalOperations #FutureOfWork`,
+    },
   ];
 }
 

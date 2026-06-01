@@ -378,3 +378,5 @@ main().catch((error: unknown) => {
   );
   process.exitCode = 1;
 });
+
+export {};

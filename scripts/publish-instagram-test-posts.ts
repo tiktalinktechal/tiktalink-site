@@ -426,6 +426,152 @@ The companies that lead tomorrow are engineering that advantage today.
 
 #TiktaLink #TechnologyAdvantage #EnterpriseStrategy #DigitalInfrastructure #EnterpriseAI #TechnologyLeadership #BusinessTransformation #ScalableArchitecture #FutureEnterprise #InnovationStrategy`,
     },
+    {
+      id: 21,
+      topic: "The Future of Intelligent Healthcare",
+      imageUrl: imageUrl("industry-healthcare.jpg"),
+      caption: `Healthcare intelligence begins when clinical insight, patient data and operational systems work as one connected infrastructure.
+
+AI-assisted diagnostics can support faster interpretation. Patient analytics can surface meaningful patterns. Automated workflows can reduce administrative friction. Connected health infrastructure can give care teams clearer information at the moment it matters.
+
+The future of healthcare is not technology replacing expertise.
+It is technology extending the reach, speed and precision of expertise.
+
+TiktaLink TechAI builds the digital foundations behind intelligent healthcare organizations.
+
+#TiktaLink #HealthcareTechnology #DigitalHealth #HealthcareAI #MedicalAutomation #PatientAnalytics #EnterpriseAI #HealthInfrastructure #DigitalTransformation #ClinicalInnovation`,
+    },
+    {
+      id: 22,
+      topic: "AI-Powered Logistics Networks",
+      imageUrl: imageUrl("industry-logistics.jpg"),
+      caption: `Logistics is a real-time coordination challenge.
+
+Every vehicle, warehouse, route, shipment and supplier creates a continuous stream of operational decisions.
+
+AI-powered logistics infrastructure connects these signals into one intelligent network: optimizing fleets, automating warehouses, improving route decisions and creating visibility across the supply chain.
+
+The advantage is not simply moving faster.
+It is knowing where, when and how to move before complexity becomes delay.
+
+#TiktaLink #LogisticsTechnology #SupplyChainAI #FleetOptimization #WarehouseAutomation #RouteIntelligence #EnterpriseAI #OperationalIntelligence #DigitalInfrastructure #GlobalLogistics`,
+    },
+    {
+      id: 23,
+      topic: "The Autonomous Commerce Era",
+      imageUrl: imageUrl("industry-ecommerce.jpg"),
+      caption: `Digital commerce is becoming an intelligent operating system.
+
+Customer signals shape recommendations. Demand data informs inventory. Automated journeys guide conversion. Real-time analytics continuously improve the commercial experience.
+
+The autonomous commerce era is not about removing human strategy.
+It is about giving strategy an infrastructure that can execute at scale.
+
+TiktaLink TechAI connects customer intelligence, sales automation and operational data into modern commerce ecosystems.
+
+#TiktaLink #EcommerceTechnology #AutonomousCommerce #CustomerIntelligence #SalesAutomation #RecommendationEngine #EnterpriseAI #DigitalCommerce #DataIntelligence #CommerceInfrastructure`,
+    },
+    {
+      id: 24,
+      topic: "Smart Factories Never Sleep",
+      imageUrl: imageUrl("industry-manufacturing.jpg"),
+      caption: `A smart factory is more than an automated production line.
+
+It is a connected intelligence system where equipment, quality, maintenance, production data and operational decisions continuously inform one another.
+
+Predictive maintenance identifies risk before interruption. Connected production creates visibility across every stage. Industrial automation turns precision into repeatable performance.
+
+Factories that can understand their operations in real time can improve them in real time.
+
+#TiktaLink #SmartFactory #ManufacturingTechnology #IndustrialAutomation #PredictiveMaintenance #Industry40 #EnterpriseAI #ConnectedProduction #FactoryIntelligence #DigitalManufacturing`,
+    },
+    {
+      id: 25,
+      topic: "Restaurants Driven By Data",
+      imageUrl: imageUrl("industry-restaurants.jpg"),
+      caption: `The modern restaurant experience begins long before a guest arrives.
+
+Reservations, demand patterns, inventory, service workflows and customer preferences all shape performance.
+
+When these signals remain disconnected, teams react. When they become one intelligent system, operators can anticipate.
+
+TiktaLink TechAI helps restaurant groups connect guest intelligence, reservation automation, inventory visibility and operational analytics into a scalable digital ecosystem.
+
+#TiktaLink #RestaurantTechnology #HospitalityAI #CustomerAnalytics #ReservationAutomation #InventoryIntelligence #EnterpriseTechnology #DigitalHospitality #BusinessAutomation #RestaurantOperations`,
+    },
+    {
+      id: 26,
+      topic: "Real Estate Meets Artificial Intelligence",
+      imageUrl: imageUrl("industry-real-estate.jpg"),
+      caption: `Real estate decisions are shaped by location, demand, timing, assets and human behavior.
+
+Artificial intelligence creates a new layer of clarity across that complexity.
+
+Property intelligence can strengthen portfolio visibility. Market analytics can support better decisions. Automated lead systems can improve response speed. Connected data can align agents, operators and investors.
+
+The next era of real estate will be built on intelligent information infrastructure.
+
+#TiktaLink #RealEstateTechnology #PropTech #RealEstateAI #PropertyIntelligence #MarketAnalytics #EnterpriseAI #DigitalInfrastructure #InvestmentTechnology #BusinessAutomation`,
+    },
+    {
+      id: 27,
+      topic: "The AI Learning Revolution",
+      imageUrl: imageUrl("industry-education.jpg"),
+      caption: `Education becomes more powerful when learning systems can adapt, understand and support.
+
+AI can help institutions identify learning patterns, personalize educational journeys, automate administration and give educators clearer insight into where attention creates the greatest impact.
+
+The goal is not to standardize every learner.
+It is to build infrastructure capable of responding to individual potential at scale.
+
+TiktaLink TechAI develops the connected systems behind intelligent education environments.
+
+#TiktaLink #EducationTechnology #EdTech #AILearning #AdaptiveLearning #StudentAnalytics #EnterpriseAI #DigitalEducation #LearningInfrastructure #EducationInnovation`,
+    },
+    {
+      id: 28,
+      topic: "Intelligent Financial Infrastructure",
+      imageUrl: imageUrl("industry-finance.jpg"),
+      caption: `Financial institutions operate where speed, trust and precision must coexist.
+
+Intelligent financial infrastructure connects transactions, risk signals, compliance workflows, treasury data and executive decisions into one observable operating layer.
+
+AI can accelerate analysis. Automation can strengthen repeatability. Connected data can improve visibility across the institution.
+
+The future of finance will be defined by systems engineered for intelligence and control.
+
+#TiktaLink #FinancialTechnology #FinTech #FinancialInfrastructure #RiskIntelligence #FinanceAI #EnterpriseAI #DataInfrastructure #ComplianceTechnology #DigitalFinance`,
+    },
+    {
+      id: 29,
+      topic: "Automated Risk Intelligence",
+      imageUrl: imageUrl("industry-insurance.jpg"),
+      caption: `Insurance is built on the ability to understand uncertainty.
+
+Modern risk intelligence connects underwriting signals, claims workflows, portfolio exposure, fraud detection and scenario analysis into one decision infrastructure.
+
+Automation creates consistency. AI identifies patterns. Connected data gives decision makers a clearer view of emerging risk.
+
+The insurers of the future will not simply process information faster.
+They will understand risk earlier.
+
+#TiktaLink #InsuranceTechnology #InsurTech #RiskIntelligence #ClaimsAutomation #UnderwritingAI #EnterpriseAI #FraudDetection #DataIntelligence #DigitalInsurance`,
+    },
+    {
+      id: 30,
+      topic: "The Digital Law Firm",
+      imageUrl: imageUrl("industry-legal-services.jpg"),
+      caption: `The digital law firm is built around knowledge, trust and operational precision.
+
+Matter intelligence, secure documents, research systems, client intake and critical deadlines must work together without adding friction to legal expertise.
+
+AI can support research and information discovery. Automation can coordinate recurring workflows. Connected knowledge systems can make institutional expertise more accessible.
+
+Technology does not replace legal judgment.
+It gives legal judgment a stronger operating system.
+
+#TiktaLink #LegalTechnology #LegalTech #DigitalLawFirm #LegalAI #DocumentAutomation #KnowledgeManagement #EnterpriseAI #LegalOperations #DigitalInfrastructure`,
+    },
   ];
 }
 

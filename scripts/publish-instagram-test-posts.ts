@@ -347,6 +347,85 @@ TiktaLink TechAI builds the digital infrastructure for businesses preparing to o
 
 #TiktaLink #AINative #DataDriven #APIInfrastructure #BusinessAutomation #GlobalScale #EnterpriseTechnology #FutureBusiness #DigitalInfrastructure #TechnologyStrategy`,
     },
+    {
+      id: 17,
+      topic: "Decision Intelligence at Enterprise Scale",
+      imageUrl: imageUrl("tiktalink-decision-intelligence.jpg"),
+      caption: `Enterprise leadership is not limited by a lack of data.
+
+It is limited by the distance between signal and decision.
+
+Markets, customers, operations, financials, supply chains and risk systems generate constant complexity. The strategic advantage comes from turning that complexity into clarity.
+
+Decision intelligence creates a unified layer where leaders can detect patterns, evaluate scenarios, prioritize action and move with confidence.
+
+Less noise.
+More signal.
+Better decisions.
+
+TiktaLink TechAI builds the infrastructure that brings intelligence closer to leadership.
+
+#TiktaLink #DecisionIntelligence #EnterpriseAI #ExecutiveLeadership #BusinessIntelligence #TechnologyStrategy #DataInfrastructure #OperationalExcellence #EnterpriseTechnology #DigitalInfrastructure`,
+    },
+    {
+      id: 18,
+      topic: "Resilience Is an Architectural Decision",
+      imageUrl: imageUrl("tiktalink-resilient-architecture.jpg"),
+      caption: `Resilience is not a feature added after growth.
+
+It is an architectural decision made before scale.
+
+Modern enterprises depend on connected services, distributed operations, data availability and continuous digital access. When infrastructure is fragmented, every point of growth can become a point of failure.
+
+Resilient architecture is modular, observable, adaptable and designed for continuity.
+
+The strongest systems do more than perform when conditions are ideal.
+They continue operating when conditions change.
+
+#TiktaLink #EnterpriseArchitecture #DigitalResilience #InfrastructureEngineering #BusinessContinuity #ScalableSystems #EnterpriseTechnology #CloudArchitecture #TechnologyLeadership #OperationalExcellence`,
+    },
+    {
+      id: 19,
+      topic: "One Command Layer. Global Operations.",
+      imageUrl: imageUrl("tiktalink-global-command-layer.jpg"),
+      caption: `Global operations create value across many environments at once.
+
+Production.
+Supply chains.
+Logistics.
+Commerce.
+Customer operations.
+
+Without a connected command layer, each function becomes a separate source of delay, risk and incomplete visibility.
+
+The next generation of global companies will coordinate execution through unified data, intelligent workflows and real-time operational awareness.
+
+One command layer.
+Every function connected.
+Global operations synchronized.
+
+#TiktaLink #GlobalOperations #SupplyChainTechnology #ManufacturingTechnology #EnterpriseAI #OperationalIntelligence #GlobalCommerce #DigitalInfrastructure #BusinessSystems #EnterpriseTechnology`,
+    },
+    {
+      id: 20,
+      topic: "Technology Advantage Is Built, Not Bought",
+      imageUrl: imageUrl("tiktalink-technology-advantage.jpg"),
+      caption: `Technology advantage cannot be purchased as a single product.
+
+It is built through years of architectural decisions.
+
+Clean data foundations.
+Intelligent automation.
+Connected systems.
+Secure infrastructure.
+Adaptable cloud architecture.
+
+When these capabilities operate as one system, technology becomes more than support. It becomes a durable strategic advantage that compounds over time.
+
+The companies that lead tomorrow are engineering that advantage today.
+
+#TiktaLink #TechnologyAdvantage #EnterpriseStrategy #DigitalInfrastructure #EnterpriseAI #TechnologyLeadership #BusinessTransformation #ScalableArchitecture #FutureEnterprise #InnovationStrategy`,
+    },
   ];
 }
 
